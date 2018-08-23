@@ -1,0 +1,7 @@
+author="chat of madness"
+icon="any image file in the game's ./images directory"
+version="0.1"
+title="CHEGOBNK say sorry MP Era"
+type="era"
+description="a brief description of your era"
+passphrase=hello there :P
