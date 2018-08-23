@@ -7,7 +7,7 @@ Partypus - главноспрайтер
 XAH - создание карт, сценариев, кампании
 Pickpocke - кодер, спрайтер
 VladikaZhabyat - звуки, тестировка
-HeEretiK - тестировка
+NeEretiK - тестировка
 frazhus - коммунитименеджмент
 Kuodos, lovalova322, Nyandola, Blavier, Whichbonk - посильная помощь
 GordonHollow - основа лора для данного аддона
