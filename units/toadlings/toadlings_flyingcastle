@@ -1,11 +1,11 @@
 #textdomain wesnoth-chegobnk_say_sorry      ##указываем тоже самое, что _main.cfg в нашем случае wesnoth-chegobnk_say_sorry Часть wesnoth- обязательна
 
 [unit_type]
-    id="toadlings_magnificientstump"        
-    name= _ "Magnificient stump"   
+    id="toadlings_flyingcastle"        
+    name= _ "Flying castle"   
     race=toadlings
     {TRAIT_DEXTROUS}
-    image=data/add-ons/chegobnk_say_sorry/images/units/toadlings/magnificient-stump/toadlings_magnificientstump.png
+    image=data/add-ons/chegobnk_say_sorry/images/units/toadlings/flying_castle/toadlings_castle.png
     {MAGENTA_IS_THE_TEAM_COLOR}
     hitpoints=134                  
     movement=7             
@@ -50,5 +50,11 @@
         damage=38
         number=2
     [/attack]
+    [standing_anim]
+        start_time=0
+        [frame]
+            image="units/toadlings/flying_castle/toadlings_castle_s_[1~7,7~1].png:160"
+        [/frame]
+    [/standing_anim]
 [/unit_type]
 
