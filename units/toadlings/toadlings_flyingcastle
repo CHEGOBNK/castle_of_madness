@@ -1,0 +1,54 @@
+#textdomain wesnoth-chegobnk_say_sorry      ##указываем тоже самое, что _main.cfg в нашем случае wesnoth-chegobnk_say_sorry Часть wesnoth- обязательна
+
+[unit_type]
+    id="toadlings_magnificientstump"        
+    name= _ "Magnificient stump"   
+    race=toadlings
+    {TRAIT_DEXTROUS}
+    image=data/add-ons/chegobnk_say_sorry/images/units/toadlings/magnificient-stump/toadlings_magnificientstump.png
+    {MAGENTA_IS_THE_TEAM_COLOR}
+    hitpoints=134                  
+    movement=7             
+    experience=250
+    {AMLA_DEFAULT}
+    level=5
+    advances_to=null           
+    alignment=neutral      
+    cost=65
+    usage=mixed fighter          
+    description= _ "fish"
+    die_sound=
+    num_traits=2          
+    ignore_race_traits=no
+    [movement_costs]
+        {STUMPTOAD_MOVECOSTS}
+    [/movement_costs]
+    [defense] 
+        {STUMPTOAD_STANDARD_GROUNDDEF}
+    [/defense]
+    [resistance]
+        blade=80
+        pierce=60
+        impact=80
+        fire=140
+        cold=80
+        arcane=110
+    [/resistance]
+    [attack]
+        name="sharp_sticks"        
+        description= _ "sharp sticks"
+        range=melee
+        type=pierce       
+        damage=7        
+        number=8          
+    [/attack]
+    [attack]
+        name="stonebombard"        
+        description= _ "stone bombard"
+        range=ranged       
+        type=impact
+        damage=38
+        number=2
+    [/attack]
+[/unit_type]
+
