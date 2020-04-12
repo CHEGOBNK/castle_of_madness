@@ -1,12 +1,11 @@
 открываем preload.txt
 по образцу добавляем все(!) переводимые строки в игре
 msgid "Unravel the mystery beyond the adventures of well-known trader Han." #строка из файла игры
-msgstr "" #ничего не пишем
+msgstr "какое-то там пушетествие хана" #пишем перевод
 
 Когда добавили все строки, сохраняем
 Делаем копию
 Меняем ей формат на .po
 качаем poedit https://poedit.net/download
 открываем preload.po 
-добавляем перевод к тому что есть (англ строки могут быть без перевода, тобиш необязательно переводить сразу все)
 сохраняем в ru/LC_MESSAGES с именем wesnoth-castle_of_madness.mo
