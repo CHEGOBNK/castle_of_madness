@@ -1,0 +1,2678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-04-12 12:02 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [multiplayer_side]: id=barbarians, type=random
+#: castle_of_madness\factions\barbarians.cfg:4
+msgid "Barbarians"
+msgstr ""
+
+#. [multiplayer_side]: id=platybadger_clan, type=random
+#: castle_of_madness\factions\platybadger_clan.cfg:4
+msgid "Platybadger clan"
+msgstr ""
+
+#. [multiplayer_side]: id=toadlings, type=random
+#. [unit_type]: id=toadlings_toadlings, race=toadlings, description=_
+#: castle_of_madness\factions\toadlings.cfg:4
+#: castle_of_madness\units\toadlings\toadlings_toadlings.cfg:4
+msgid "Toadlings"
+msgstr ""
+
+#. [side]: id=MyLeader, type=Sergeant
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:29
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:28
+msgid "Good bous"
+msgstr ""
+
+#. [side]: id=MyLeader, type=Sergeant
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:31
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:30
+msgid "Ned"
+msgstr ""
+
+#. [side]
+#. [side]: id=EnemyLeader, type=Ghost
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:43
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:42
+msgid "Mage"
+msgstr ""
+
+#. [unit]: type=Cavalryman, id=horseman
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:87
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:92
+msgid "Jokernik"
+msgstr ""
+
+#. [unit]: type=mage_death, id=piligrim
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:120
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:125
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:279
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:288
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:297
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:306
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:315
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:324
+msgid "Piligrim"
+msgstr ""
+
+#. [message]: speaker=MyLeader
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:131
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:136
+msgid "Hello, tired traveller, what could we..."
+msgstr ""
+
+#. [message]: speaker=MyLeader
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:210
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:215
+msgid "WHO ARE YOU?!"
+msgstr ""
+
+#. [message]: speaker=MyLeader
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:214
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:219
+msgid "Jokernik, alarm the city of mage with horrifying powers. Have them send reinforcments... if they'll have a place to arrive to."
+msgstr ""
+
+#. [message]: speaker=horseman
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:218
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:223
+msgid "Will do!"
+msgstr ""
+
+#. [message]: speaker=MyLeader
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:230
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:235
+msgid "To arms, citizens!"
+msgstr ""
+
+#. [objective]: condition=win
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:234
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:239
+msgid "hold out for 8 turns"
+msgstr ""
+
+#. [note]
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:238
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:243
+msgid "Hint: this is not an actual survival map - you can't win there! Tell us for how long you managed to survive on that map on wesnoth forums!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:254
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:259
+msgid "I hope, the city will be warned..."
+msgstr ""
+
+#. [message]: speaker=piligrim
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:269
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:274
+msgid "Haha. You was pwned!"
+msgstr ""
+
+#. [message]: speaker=MyLeader
+#: castle_of_madness\scenarios\Han_campaign\1_mysterious_threat.cfg:330
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:335
+msgid "Haha! I am stronk!"
+msgstr ""
+
+#. [scenario]: id=castle_of_madness_scenario
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:22
+msgid "CHEGOBNK say sorry first"
+msgstr ""
+
+#. [side]: id=EnemyLeader, type=Ghost
+#: castle_of_madness\scenarios\Han_campaign\2_digression.cfg:44
+msgid "Mountain"
+msgstr ""
+
+#. [scenario]: id=the_main_story_scenario
+#: castle_of_madness\scenarios\Main_campaign\the_main_story_scenario.cfg:5
+msgid "Castle of Lova"
+msgstr ""
+
+#. [side]: id=merc_conservator, type=
+#: castle_of_madness\scenarios\Main_campaign\the_main_story_scenario.cfg:11
+msgid "Mercenaries"
+msgstr ""
+
+#. [side]: id=merc_conservator, type=
+#: castle_of_madness\scenarios\Main_campaign\the_main_story_scenario.cfg:13
+msgid "Gordon"
+msgstr ""
+
+#. [side]: id=, type=
+#: castle_of_madness\scenarios\Main_campaign\the_main_story_scenario.cfg:25
+msgid "Lova"
+msgstr ""
+
+#. [terrain_type]: id=table
+#. [unit_type]: id=table, race=Wood
+#: castle_of_madness\terrain\terrain.cfg:5
+#: castle_of_madness\units\campaigns\table.cfg:5
+msgid "Table"
+msgstr ""
+
+#. [terrain_type]: id=table_feast
+#: castle_of_madness\terrain\terrain.cfg:13
+msgid "Feast Table"
+msgstr ""
+
+#. [unit_type]: id=badger_ancientwarrior, race=badgers
+#: castle_of_madness\units\badgers\badger_ancientwarrior.cfg:5
+msgid "Ancient Warrior"
+msgstr ""
+
+#. [unit_type]: id=badger_ancientwarrior, race=badgers
+#: castle_of_madness\units\badgers\badger_ancientwarrior.cfg:18
+msgid "Back in times, when badgers had to defend themself with just their natural ferociousness, a caste of warriors was born. Their unique talent of conserving rage for specific enemies still lives up to this day in a caste of warriors. The strongest warriors are proclaimed Ancient, as they defend their clan just like their ancestors did in the past."
+msgstr ""
+
+#. [attack]: type=blade       ##колущий режущий тд
+#. [attack]: type=blade        ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_ancientwarrior.cfg:38
+#: castle_of_madness\units\badgers\badger_fury.cfg:38
+#: castle_of_madness\units\badgers\badger_warrior.cfg:36
+msgid "berserker frenzy"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=blade       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_ancientwarrior.cfg:50
+#: castle_of_madness\units\badgers\badger_berserk.cfg:37
+#: castle_of_madness\units\badgers\badger_ulfserk.cfg:36
+#: castle_of_madness\units\badgers\badger_warrior.cfg:48
+msgid "axes"
+msgstr ""
+
+#. [unit_type]: id=badger_badgercrew, race=badgers, description=_
+#: castle_of_madness\units\badgers\badger_badgercrew.cfg:5
+msgid "Badger crew"
+msgstr ""
+
+#. [attack]: type=impact
+#. [attack]: type=impact       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_badgercrew.cfg:36
+#: castle_of_madness\units\badgers\badger_battleengineer.cfg:46
+#: castle_of_madness\units\badgers\badger_engineer.cfg:45
+#: castle_of_madness\units\badgers\badger_flamethrower.cfg:44
+#: castle_of_madness\units\badgers\badger_grenadeflinger.cfg:45
+#: castle_of_madness\units\badgers\badger_pyromaniac.cfg:51
+msgid "grenade"
+msgstr ""
+
+#. [attack]: type=impact
+#. [attack]: type=impact       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_badgercrew.cfg:44
+#: castle_of_madness\units\badgers\badger_engineer.cfg:37
+#: castle_of_madness\units\badgers\badger_grenadeflinger.cfg:37
+#: castle_of_madness\units\badgers\badger_grenadier.cfg:63
+msgid "wrench"
+msgstr ""
+
+#. [unit_type]: id=badger_battleengineer, race=badgers
+#: castle_of_madness\units\badgers\badger_battleengineer.cfg:5
+msgid "Battle Engineer"
+msgstr ""
+
+#. [unit_type]: id=badger_battleengineer, race=badgers
+#. [unit_type]: id=badger_engineer, race=badgers
+#. [unit_type]: id=badger_flamethrower, race=badgers
+#. [unit_type]: id=badger_grenadeflinger, race=badgers
+#. [unit_type]: id=badger_kiwifinder, race=platypuses
+#. [unit_type]: id=badger_kiwimaster, race=platypuses
+#. [unit_type]: id=badger_kiwir, race=platypuses
+#. [unit_type]: id=badger_kiwi_collector, race=platypuses
+#. [unit_type]: id=badger_kiwi_picker, race=platypuses
+#. [unit_type]: id=badger_longsword, race=badgers
+#. [unit_type]: id=badger_piercer, race=badgers
+#. [unit_type]: id=badger_pikebadger, race=badgers
+#. [unit_type]: id=badger_slicer, race=badgers
+#. [unit_type]: id=badger_spearbadger, race=badgers
+#. [unit_type]: id=feast_table, race=Wood
+#. [unit_type]: id=table, race=Wood
+#. [unit_type]: id=fire_believer, race=human
+#. [unit_type]: id=fire_fanatic, race=human
+#. [unit_type]: id=fire_master_slinger, race=human
+#. [unit_type]: id=fire_monster, race=fire_elementals
+#. [unit_type]: id=fire_slinger, race=human
+#. [unit_type]: id=fire_thrower, race=human
+#. [unit_type]: id=fire_warrior, race=human
+#. [unit_type]: id=mage_death, race=human
+#. [unit_type]: id=main_fighter, race=human
+#. [unit_type]: id=main_guardcaptain, race=human
+#. [unit_type]: id=main_guardgeneral, race=human
+#. [unit_type]: id=main_guardleader, race=human
+#. [unit_type]: id=main_illusionist, race=human
+#. [unit_type]: id=main_illusionmaster, race=human
+#. [unit_type]: id=main_masterfulillusionist, race=human
+#. [unit_type]: id=main_noviceillusionist, race=human
+#. [unit_type]: id=main_recruit, race=human
+#. [unit_type]: id=main_veteran, race=human
+#. [unit_type]: id=merdahs_axethrower, race=merdahs
+#. [unit_type]: id=merdahs_bouncer, race=merdahs
+#. [unit_type]: id=merdahs_bully, race=merdahs
+#. [unit_type]: id=merdahs_protector, race=merdahs
+#. [unit_type]: id=platypus_assassin, race=platypuses
+#. [unit_type]: id=platypus_battlemage, race=platypuses
+#. [unit_type]: id=platypus_cutthroat, race=platypuses
+#. [unit_type]: id=platypus_defector, race=platypuses
+#. [unit_type]: id=platypus_thief, race=platypuses
+#. [unit_type]: id=toadlings_flyingcastle, race=toadlings
+#. [unit_type]: id=toadlings_magnificientstump, race=toadlings
+#. [unit_type]: id=toadlings_majormudomancer, race=toadlings
+#. [unit_type]: id=toadlings_minormudomancer, race=toadlings
+#. [unit_type]: id=toadlings_mudomancer, race=toadlings
+#. [attack]: type=##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#. [unit_type]: id=toad, race=platypuses
+#: castle_of_madness\units\badgers\badger_battleengineer.cfg:18
+#: castle_of_madness\units\badgers\badger_engineer.cfg:17
+#: castle_of_madness\units\badgers\badger_flamethrower.cfg:16
+#: castle_of_madness\units\badgers\badger_grenadeflinger.cfg:17
+#: castle_of_madness\units\badgers\badger_kiwifinder.cfg:16
+#: castle_of_madness\units\badgers\badger_kiwimaster.cfg:16
+#: castle_of_madness\units\badgers\badger_kiwir.cfg:16
+#: castle_of_madness\units\badgers\badger_kiwi_collector.cfg:16
+#: castle_of_madness\units\badgers\badger_kiwi_picker.cfg:16
+#: castle_of_madness\units\badgers\badger_longsword.cfg:16
+#: castle_of_madness\units\badgers\badger_piercer.cfg:18
+#: castle_of_madness\units\badgers\badger_pikebadger.cfg:16
+#: castle_of_madness\units\badgers\badger_slicer.cfg:18
+#: castle_of_madness\units\badgers\badger_spearbadger.cfg:15
+#: castle_of_madness\units\campaigns\feast_table.cfg:18
+#: castle_of_madness\units\campaigns\table.cfg:18
+#: castle_of_madness\units\fire_cult\fire_believer.cfg:18
+#: castle_of_madness\units\fire_cult\fire_fanatic.cfg:17
+#: castle_of_madness\units\fire_cult\Fire_master_slinger.cfg:17
+#: castle_of_madness\units\fire_cult\fire_monster.cfg:18
+#: castle_of_madness\units\fire_cult\Fire_slinger.cfg:17
+#: castle_of_madness\units\fire_cult\Fire_thrower.cfg:17
+#: castle_of_madness\units\fire_cult\fire_warrior.cfg:19
+#: castle_of_madness\units\main\mage_destruction.cfg:19
+#: castle_of_madness\units\main\main_fighter.cfg:18
+#: castle_of_madness\units\main\main_guardcaptain.cfg:20
+#: castle_of_madness\units\main\main_guardgeneral.cfg:24
+#: castle_of_madness\units\main\main_guardleader.cfg:25
+#: castle_of_madness\units\main\main_illusionist.cfg:17
+#: castle_of_madness\units\main\main_illusionmaster.cfg:18
+#: castle_of_madness\units\main\main_masterfulillusionist.cfg:17
+#: castle_of_madness\units\main\main_noviceillusionist.cfg:17
+#: castle_of_madness\units\main\main_recruit.cfg:18
+#: castle_of_madness\units\main\main_veteran.cfg:19
+#: castle_of_madness\units\merdahs\merdahs_axethrower.cfg:16
+#: castle_of_madness\units\merdahs\merdahs_bouncer.cfg:16
+#: castle_of_madness\units\merdahs\merdahs_bully.cfg:16
+#: castle_of_madness\units\merdahs\merdahs_protector.cfg:17
+#: castle_of_madness\units\platypuses\platypus_assassin.cfg:16
+#: castle_of_madness\units\platypuses\platypus_battlemage.cfg:16
+#: castle_of_madness\units\platypuses\platypus_cutthroat.cfg:16
+#: castle_of_madness\units\platypuses\platypus_defector.cfg:16
+#: castle_of_madness\units\platypuses\platypus_thief.cfg:16
+#: castle_of_madness\units\toadlings\toadlings_flyingcastle.cfg:19
+#: castle_of_madness\units\toadlings\toadlings_magnificientstump.cfg:19
+#: castle_of_madness\units\toadlings\toadlings_majormudomancer.cfg:19
+#: castle_of_madness\units\toadlings\toadlings_minormudomancer.cfg:17
+#: castle_of_madness\units\toadlings\toadlings_mudomancer.cfg:17
+#: castle_of_madness\basis.cfg:24
+#: castle_of_madness\basis.cfg:5
+#: castle_of_madness\basis.cfg:18
+msgid "fish"
+msgstr ""
+
+#. [attack]: type=fire       ##колущий режущий тд
+#. [attack]: type=pierce
+#. [attack]: type=fire
+#: castle_of_madness\units\badgers\badger_battleengineer.cfg:38
+#: castle_of_madness\units\badgers\badger_flamethrower.cfg:36
+#: castle_of_madness\units\badgers\badger_pyromaniac.cfg:43
+#: castle_of_madness\units\homunculus\main_flamma.cfg:44
+#: castle_of_madness\units\homunculus\main_ignis.cfg:43
+msgid "flamethrower"
+msgstr ""
+
+#. [attack]: type=fire       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_battleengineer.cfg:54
+#: castle_of_madness\units\badgers\badger_pyromaniac.cfg:59
+msgid "molotov"
+msgstr ""
+
+#. [unit_type]: id=badger_berserk, race=badgers
+#: castle_of_madness\units\badgers\badger_berserk.cfg:5
+msgid "Berserk"
+msgstr ""
+
+#. [unit_type]: id=badger_berserk, race=badgers
+#: castle_of_madness\units\badgers\badger_berserk.cfg:17
+msgid "The most fierce ulfserks are proclaimed berserks for their horrifying ability to tear through enemy ranks."
+msgstr ""
+
+#. [unit_type]: id=badger_crusher, race=badgers
+#: castle_of_madness\units\badgers\badger_crusher.cfg:5
+msgid "Crusher"
+msgstr ""
+
+#. [unit_type]: id=badger_crusher, race=badgers
+#: castle_of_madness\units\badgers\badger_crusher.cfg:18
+msgid "The strongest badgers equip the flail and best armor they can find, resulting in crushers - a truly horrifying sight in battle. Such badgers easily crush their opposition and can recover from the hardest hits."
+msgstr ""
+
+#. [attack]: type=impact       ##колущий режущий тд
+#. [attack]: type=impact
+#: castle_of_madness\units\badgers\badger_crusher.cfg:38
+#: castle_of_madness\units\badgers\badger_macebadger.cfg:36
+#: castle_of_madness\units\main\main_cavalry.cfg:35
+#: castle_of_madness\units\main\main_cuirassier.cfg:36
+#: castle_of_madness\units\main\main_dragoon.cfg:36
+#: castle_of_madness\units\main\main_fist.cfg:38
+#: castle_of_madness\units\main\main_mainsdefender.cfg:36
+#: castle_of_madness\units\main\main_mainsguard.cfg:37
+msgid "mace"
+msgstr ""
+
+#. [unit_type]: id=badger_engineer, race=badgers
+#: castle_of_madness\units\badgers\badger_engineer.cfg:5
+msgid "Engineer"
+msgstr ""
+
+#. [unit_type]: id=badger_flamethrower, race=badgers
+#: castle_of_madness\units\badgers\badger_flamethrower.cfg:5
+msgid "Flamethrower"
+msgstr ""
+
+#. [unit_type]: id=badger_fury, race=badgers
+#: castle_of_madness\units\badgers\badger_fury.cfg:5
+msgid "Fury"
+msgstr ""
+
+#. [unit_type]: id=badger_fury, race=badgers
+#: castle_of_madness\units\badgers\badger_fury.cfg:18
+msgid "Most successful berserks earn unique name of Fury for their uncanny ability to destroy any enemy in mere seconds."
+msgstr ""
+
+#. [unit_type]: id=badger_grenadeflinger, race=badgers
+#: castle_of_madness\units\badgers\badger_grenadeflinger.cfg:5
+msgid "Grenadeflinger"
+msgstr ""
+
+#. [unit_type]: id=badger_grenadier, race=badgers
+#: castle_of_madness\units\badgers\badger_grenadier.cfg:5
+msgid "Grenadier"
+msgstr ""
+
+#. [unit_type]: id=badger_grenadier, race=badgers
+#: castle_of_madness\units\badgers\badger_grenadier.cfg:17
+msgid "Sooner or later those grenade-wielding warriors come understand that it's much safer to lob grenades into enemies when flying. The result was the invention of jetpacks, which are unsafe, fast and loud, but surprisingly effective. One thing engineers couldn't get around is why jetpacks are slowed down on water, though."
+msgstr ""
+
+#. [attack]: type=impact       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_grenadier.cfg:71
+msgid "grenade launcher"
+msgstr ""
+
+#. [unit_type]: id=badger_kiwifinder, race=platypuses
+#: castle_of_madness\units\badgers\badger_kiwifinder.cfg:5
+msgid "Kiwifinder"
+msgstr ""
+
+#. [attack]: type=impact       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_kiwifinder.cfg:36
+#: castle_of_madness\units\badgers\badger_kiwimaster.cfg:36
+#: castle_of_madness\units\badgers\badger_kiwir.cfg:36
+msgid "kiwi bombardment"
+msgstr ""
+
+#. [attack]: type=impact       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_kiwifinder.cfg:47
+msgid "mallet"
+msgstr ""
+
+#. [unit_type]: id=badger_kiwimaster, race=platypuses
+#: castle_of_madness\units\badgers\badger_kiwimaster.cfg:5
+msgid "Kiwimaster"
+msgstr ""
+
+#. [attack]: type=fire       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_kiwimaster.cfg:47
+#: castle_of_madness\units\badgers\badger_kiwir.cfg:47
+msgid "fired kiwi"
+msgstr ""
+
+#. [attack]: type=fire       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_kiwimaster.cfg:58
+#: castle_of_madness\units\badgers\badger_kiwir.cfg:58
+msgid "kiwi extract"
+msgstr ""
+
+#. [attack]: type=blade       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_kiwimaster.cfg:66
+#: castle_of_madness\units\badgers\badger_kiwir.cfg:66
+msgid "sacrificial dagger"
+msgstr ""
+
+#. [unit_type]: id=badger_kiwir, race=platypuses
+#: castle_of_madness\units\badgers\badger_kiwir.cfg:5
+msgid "Kiwir"
+msgstr ""
+
+#. [unit_type]: id=badger_kiwi_collector, race=platypuses
+#: castle_of_madness\units\badgers\badger_kiwi_collector.cfg:5
+msgid "Kiwi collector"
+msgstr ""
+
+#. [unit_type]: id=badger_kiwi_picker, race=platypuses
+#: castle_of_madness\units\badgers\badger_kiwi_picker.cfg:5
+msgid "Kiwi picker"
+msgstr ""
+
+#. [unit_type]: id=badger_longsword, race=badgers
+#: castle_of_madness\units\badgers\badger_longsword.cfg:4
+msgid "Longsword"
+msgstr ""
+
+#. [attack]: type=blade       ##колущий режущий тд
+#: castle_of_madness\units\badgers\badger_longsword.cfg:36
+#: castle_of_madness\units\badgers\badger_slicer.cfg:38
+msgid "longsword"
+msgstr ""
+
+#. [unit_type]: id=badger_macebadger, race=badgers
+#: castle_of_madness\units\badgers\badger_macebadger.cfg:5
+msgid "Macebadger"
+msgstr ""
+
+#. [unit_type]: id=badger_macebadger, race=badgers
+#: castle_of_madness\units\badgers\badger_macebadger.cfg:16
+msgid "Few badgers decide to equip heavy armor and swap their swords for maces, allowing them to easily crush enemy's armor and hold out longer in battle."
+msgstr ""
+
+#. [unit_type]: id=badger_piercer, race=badgers
+#: castle_of_madness\units\badgers\badger_piercer.cfg:5
+msgid "Piercer"
+msgstr ""
+
+#. [attack]: type=pierce    ##колущий режущий тд
+#. [attack]: type=pierce      ##колущий режущий тд
+#. [attack]: type=pierce
+#: castle_of_madness\units\badgers\badger_piercer.cfg:38
+#: castle_of_madness\units\badgers\badger_pikebadger.cfg:36
+#: castle_of_madness\units\main\main_fighter.cfg:36
+#: castle_of_madness\units\main\main_veteran.cfg:37
+#: castle_of_madness\units\toadlings\toadlings_awesometoadotoad.cfg:41
+#: castle_of_madness\units\toadlings\toadlings_greatertoadotoad.cfg:40
+#: castle_of_madness\units\toadlings\toadlings_hypnotoadotoad.cfg:38
+msgid "pike"
+msgstr ""
+
+#. [unit_type]: id=badger_pikebadger, race=badgers
+#: castle_of_madness\units\badgers\badger_pikebadger.cfg:5
+msgid "Pikebadger"
+msgstr ""
+
+#. [unit_type]: id=badger_flamemaster, race=badgers
+#: castle_of_madness\units\badgers\badger_pyromaniac.cfg:5
+msgid "Flamemaster"
+msgstr ""
+
+#. [unit_type]: id=badger_flamemaster, race=badgers
+#: castle_of_madness\units\badgers\badger_pyromaniac.cfg:17
+msgid "Wielders of truly terrifying fire-machines, firemasters earn their name by setting any enemy they'd want ablaze, in mere seconds."
+msgstr ""
+
+#. [unit_type]: id=badger_slicer, race=badgers
+#: castle_of_madness\units\badgers\badger_slicer.cfg:5
+msgid "Slicer"
+msgstr ""
+
+#. [unit_type]: id=badger_spearbadger, race=badgers
+#: castle_of_madness\units\badgers\badger_spearbadger.cfg:4
+msgid "Spearbadger"
+msgstr ""
+
+#. [attack]: type=pierce       ##колущий режущий тд
+#. [attack]: type=pierce
+#. [attack]: type=pierce      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\badgers\badger_spearbadger.cfg:35
+#: castle_of_madness\units\main\main_recruit.cfg:36
+#: castle_of_madness\units\platypuses\platypus_elitespearplatypus.cfg:40
+#: castle_of_madness\units\platypuses\platypus_expertjaveliner.cfg:40
+#: castle_of_madness\units\platypuses\platypus_javeliner.cfg:39
+#: castle_of_madness\units\platypuses\platypus_knavepus.cfg:36
+#: castle_of_madness\units\platypuses\platypus_outlaw.cfg:37
+#: castle_of_madness\units\platypuses\platypus_roguepus.cfg:36
+#: castle_of_madness\units\platypuses\platypus_spearplatypus.cfg:39
+#: castle_of_madness\units\platypuses\platypus_veteranspearplatypus.cfg:39
+#: castle_of_madness\units\toadlings\toadlings_toadlingscolumn.cfg:44
+#: castle_of_madness\units\toadlings\toadlings_toadlingspillar.cfg:44
+#: castle_of_madness\units\toadlings\toadlings_toadlingstower.cfg:44
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=badger_swordbadger, race=badgers
+#: castle_of_madness\units\badgers\badger_swordbadger.cfg:5
+msgid "Swordbadger"
+msgstr ""
+
+#. [unit_type]: id=badger_swordbadger, race=badgers
+#: castle_of_madness\units\badgers\badger_swordbadger.cfg:16
+msgid "Typically, badger militia is handed swords and is trained to fend off assaults and attack enemies. The most succesfull badgers are granted a possibility to become a badger swordsman."
+msgstr ""
+
+#. [attack]: type=blade       ##колущий режущий тд
+#. [attack]: type=blade
+#: castle_of_madness\units\badgers\badger_swordbadger.cfg:36
+#: castle_of_madness\units\homunculus\main_caenum_platearum.cfg:36
+#: castle_of_madness\units\homunculus\main_exitium.cfg:35
+#: castle_of_madness\units\homunculus\main_flamma.cfg:36
+#: castle_of_madness\units\homunculus\main_homunculus.cfg:35
+#: castle_of_madness\units\homunculus\main_ignis.cfg:35
+#: castle_of_madness\units\homunculus\main_mortum.cfg:35
+#: castle_of_madness\units\main\main_guardcaptain.cfg:41
+#: castle_of_madness\units\main\main_guardgeneral.cfg:45
+#: castle_of_madness\units\main\main_guardleader.cfg:46
+#: castle_of_madness\units\main\main_illusionist.cfg:35
+#: castle_of_madness\units\main\main_illusionmaster.cfg:36
+#: castle_of_madness\units\main\main_masterfulillusionist.cfg:35
+#: castle_of_madness\units\main\main_swordman.cfg:35
+#: castle_of_madness\units\main\main_swordmaster.cfg:35
+#: castle_of_madness\units\main\main_swordspecialist.cfg:36
+#: castle_of_madness\units\mercenaries\merc_experiencedsvalker.cfg:41
+#: castle_of_madness\units\mercenaries\merc_extraordinarysvalker.cfg:42
+#: castle_of_madness\units\mercenaries\merc_svalker.cfg:41
+#: castle_of_madness\units\mercenaries\merc_youngsvalker.cfg:41
+#: castle_of_madness\units\toadlings\toadlings_swampdefender.cfg:36
+#: castle_of_madness\units\toadlings\toadlings_swamphero.cfg:37
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=badger_ulfserk, race=badgers
+#: castle_of_madness\units\badgers\badger_ulfserk.cfg:5
+msgid "Ulfserk"
+msgstr ""
+
+#. [unit_type]: id=badger_ulfserk, race=badgers
+#: castle_of_madness\units\badgers\badger_ulfserk.cfg:16
+msgid "Naturally calm, badgers can enter ferocious state, if their live, family or clan is threatened. Ulfserks train their ferocity, learning to aim it at chosen enemies."
+msgstr ""
+
+#. [unit_type]: id=badger_warrior, race=badgers
+#. [unit_type]: id=fire_warrior, race=human
+#: castle_of_madness\units\badgers\badger_warrior.cfg:5
+#: castle_of_madness\units\fire_cult\fire_warrior.cfg:5
+msgid "Warrior"
+msgstr ""
+
+#. [unit_type]: id=badger_warrior, race=badgers
+#: castle_of_madness\units\badgers\badger_warrior.cfg:16
+msgid "Some ulfserks decide to follow their ancestors, and learn to handle their furiousness in a way that lets them use it only when they wish to."
+msgstr ""
+
+#. [unit_type]: id=barb_airship, race=barbarians
+#: castle_of_madness\units\barbarians\barb_airship.cfg:6
+msgid "Barbarian Airship"
+msgstr ""
+
+#. [unit_type]: id=barb_airship, race=barbarians
+#: castle_of_madness\units\barbarians\barb_airship.cfg:18
+msgid "They fly."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\barbarians\barb_airship.cfg:60
+#: castle_of_madness\units\barbarians\barb_baloon.cfg:58
+#: castle_of_madness\units\barbarians\barb_flying.cfg:36
+#: castle_of_madness\units\barbarians\barb_heavykicker.cfg:36
+#: castle_of_madness\units\barbarians\barb_mightyfist.cfg:37
+#: castle_of_madness\units\barbarians\barb_strongkicker.cfg:36
+msgid "Punch"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\barbarians\barb_airship.cfg:68
+msgid "Bombardment"
+msgstr ""
+
+#. [unit_type]: id=barb_ancientbarrtule, race=barrtules
+#: castle_of_madness\units\barbarians\barb_ancientbarrtule.cfg:5
+msgid "Ancient Barrtule"
+msgstr ""
+
+#. [unit_type]: id=barb_ancientbarrtule, race=barrtules
+#. [unit_type]: id=barb_desertbarrtule, race=barrtules
+#. [unit_type]: id=barb_sandbarrtule, race=barrtules
+#: castle_of_madness\units\barbarians\barb_ancientbarrtule.cfg:17
+#: castle_of_madness\units\barbarians\barb_desertbarrtule.cfg:17
+#: castle_of_madness\units\barbarians\barb_sandbarrtule.cfg:17
+msgid "Do a barrel roll!"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\barbarians\barb_ancientbarrtule.cfg:37
+#: castle_of_madness\units\barbarians\barb_desertbarrtule.cfg:36
+#: castle_of_madness\units\barbarians\barb_sandbarrtule.cfg:36
+msgid "Bite"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\barbarians\barb_ancientbarrtule.cfg:45
+#: castle_of_madness\units\barbarians\barb_desertbarrtule.cfg:44
+#: castle_of_madness\units\barbarians\barb_sandbarrtule.cfg:44
+msgid "Stomp"
+msgstr ""
+
+#. [unit_type]: id=barb_axeslasher, race=barbarians
+#: castle_of_madness\units\barbarians\barb_axeslasher.cfg:5
+msgid "Axe Slasher"
+msgstr ""
+
+#. [unit_type]: id=barb_axeslasher, race=barbarians
+#. [unit_type]: id=barb_axewarrior, race=barbarians
+#. [unit_type]: id=barb_barbaentist, race=barbarians
+#: castle_of_madness\units\barbarians\barb_axeslasher.cfg:17
+#: castle_of_madness\units\barbarians\barb_axewarrior.cfg:17
+#: castle_of_madness\units\barbarians\barb_barbaentist.cfg:17
+msgid "Slash-slash"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\barbarians\barb_axeslasher.cfg:36
+#: castle_of_madness\units\barbarians\barb_axewarrior.cfg:36
+#: castle_of_madness\units\barbarians\barb_barbaentist.cfg:37
+#: castle_of_madness\units\merdahs\merdahs_axethrower.cfg:44
+msgid "Axe"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\barbarians\barb_axeslasher.cfg:44
+#: castle_of_madness\units\barbarians\barb_barbaentist.cfg:45
+msgid "Axe Throw"
+msgstr ""
+
+#. [unit_type]: id=barb_axewarrior, race=barbarians
+#: castle_of_madness\units\barbarians\barb_axewarrior.cfg:5
+msgid "Axe Warrior"
+msgstr ""
+
+#. [unit_type]: id=barb_baloon, race=barbarians
+#: castle_of_madness\units\barbarians\barb_baloon.cfg:5
+msgid "Baloon Barbarian"
+msgstr ""
+
+#. [unit_type]: id=barb_baloon, race=barbarians
+#: castle_of_madness\units\barbarians\barb_baloon.cfg:17
+msgid "He flies."
+msgstr ""
+
+#. [unit_type]: id=barb_barbaentist, race=barbarians
+#: castle_of_madness\units\barbarians\barb_barbaentist.cfg:5
+msgid "Barbaentist"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\barbarians\barb_barbaentist.cfg:53
+msgid "Murderous Rage"
+msgstr ""
+
+#. [unit_type]: id=barb_bucketarcher, race=barbarians
+#: castle_of_madness\units\barbarians\barb_bucketarcher.cfg:5
+msgid "Bucket Archer"
+msgstr ""
+
+#. [unit_type]: id=barb_bucketarcher, race=barbarians
+#: castle_of_madness\units\barbarians\barb_bucketarcher.cfg:17
+msgid "Arrows fly, everyone dies"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\barbarians\barb_bucketarcher.cfg:36
+#: castle_of_madness\units\barbarians\barb_bucketslinger.cfg:36
+#: castle_of_madness\units\barbarians\barb_bucketthrower.cfg:37
+msgid "bucket spikes (defense only)"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\barbarians\barb_bucketarcher.cfg:45
+#: castle_of_madness\units\barbarians\barb_bucketslinger.cfg:45
+#: castle_of_madness\units\barbarians\barb_bucketthrower.cfg:46
+#: castle_of_madness\units\fire_cult\Fire_master_slinger.cfg:43
+msgid "Sling"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\barbarians\barb_bucketarcher.cfg:53
+msgid "Arrows"
+msgstr ""
+
+#. [unit_type]: id=barb_bucketslinger, race=barbarians
+#: castle_of_madness\units\barbarians\barb_bucketslinger.cfg:5
+msgid "Bucket Slinger"
+msgstr ""
+
+#. [unit_type]: id=barb_bucketslinger, race=barbarians
+#: castle_of_madness\units\barbarians\barb_bucketslinger.cfg:17
+msgid "Rocks fly, everyone dies"
+msgstr ""
+
+#. [unit_type]: id=barb_bucketthrower, race=barbarians
+#: castle_of_madness\units\barbarians\barb_bucketthrower.cfg:5
+msgid "Bucket Thrower"
+msgstr ""
+
+#. [unit_type]: id=barb_bucketthrower, race=barbarians
+#: castle_of_madness\units\barbarians\barb_bucketthrower.cfg:17
+msgid "Bolts fly, everyone dies"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\barbarians\barb_bucketthrower.cfg:54
+msgid "Bolts"
+msgstr ""
+
+#. [unit_type]: id=barb_desertbarrtule, race=barrtules
+#: castle_of_madness\units\barbarians\barb_desertbarrtule.cfg:5
+msgid "Desert Barrtule"
+msgstr ""
+
+#. [unit_type]: id=barb_flying, race=barbarians
+#: castle_of_madness\units\barbarians\barb_flying.cfg:5
+msgid "Flying Barbarian"
+msgstr ""
+
+#. [unit_type]: id=barb_flying, race=barbarians
+#: castle_of_madness\units\barbarians\barb_flying.cfg:17
+msgid "He flies. At least he pretends to."
+msgstr ""
+
+#. [unit_type]: id=barb_heavykicker, race=barbarians
+#: castle_of_madness\units\barbarians\barb_heavykicker.cfg:5
+msgid "Heavy Kicker"
+msgstr ""
+
+#. [unit_type]: id=barb_heavykicker, race=barbarians
+#: castle_of_madness\units\barbarians\barb_heavykicker.cfg:17
+msgid "BONK"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\barbarians\barb_heavykicker.cfg:44
+#: castle_of_madness\units\barbarians\barb_mightyfist.cfg:45
+msgid "Chop"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\barbarians\barb_heavykicker.cfg:52
+#: castle_of_madness\units\barbarians\barb_mightyfist.cfg:53
+#: castle_of_madness\units\barbarians\barb_strongkicker.cfg:44
+msgid "Combo"
+msgstr ""
+
+#. [unit_type]: id=barb_inspiringdoctor, race=barbarians
+#: castle_of_madness\units\barbarians\barb_inspiringdoctor.cfg:5
+msgid "Inspiring Doctor"
+msgstr ""
+
+#. [unit_type]: id=barb_inspiringdoctor, race=barbarians
+#. [unit_type]: id=barb_inspiringhealer, race=barbarians
+#. [unit_type]: id=barb_ressurector, race=barbarians
+#: castle_of_madness\units\barbarians\barb_inspiringdoctor.cfg:17
+#: castle_of_madness\units\barbarians\barb_inspiringhealer.cfg:17
+#: castle_of_madness\units\barbarians\barb_ressurector.cfg:17
+msgid "Heroes never die!"
+msgstr ""
+
+#. [attack]: type=arcane
+#: castle_of_madness\units\barbarians\barb_inspiringdoctor.cfg:39
+#: castle_of_madness\units\barbarians\barb_inspiringhealer.cfg:39
+#: castle_of_madness\units\barbarians\barb_ressurector.cfg:41
+msgid "Magic bolt"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\barbarians\barb_inspiringdoctor.cfg:50
+#: castle_of_madness\units\barbarians\barb_ressurector.cfg:63
+msgid "Staff"
+msgstr ""
+
+#. [unit_type]: id=barb_inspiringhealer, race=barbarians
+#: castle_of_madness\units\barbarians\barb_inspiringhealer.cfg:5
+msgid "Inspiring Healer"
+msgstr ""
+
+#. [unit_type]: id=barb_mightyfist, race=barbarians
+#: castle_of_madness\units\barbarians\barb_mightyfist.cfg:5
+msgid "Mighty Fist"
+msgstr ""
+
+#. [unit_type]: id=barb_mightyfist, race=barbarians
+#: castle_of_madness\units\barbarians\barb_mightyfist.cfg:17
+msgid "BONK! BONK! BONK!"
+msgstr ""
+
+#. [unit_type]: id=barb_ressurector, race=barbarians
+#: castle_of_madness\units\barbarians\barb_ressurector.cfg:5
+msgid "Ressurector"
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\barbarians\barb_ressurector.cfg:52
+msgid "Burn"
+msgstr ""
+
+#. [unit_type]: id=barb_sandbarrtule, race=barrtules
+#: castle_of_madness\units\barbarians\barb_sandbarrtule.cfg:5
+msgid "Sand Barrtule"
+msgstr ""
+
+#. [unit_type]: id=barb_strongkicker, race=barbarians
+#: castle_of_madness\units\barbarians\barb_strongkicker.cfg:5
+msgid "Strong Kicker"
+msgstr ""
+
+#. [unit_type]: id=barb_strongkicker, race=barbarians
+#: castle_of_madness\units\barbarians\barb_strongkicker.cfg:17
+msgid "Bonk"
+msgstr ""
+
+#. [unit_type]: id=feast_table, race=Wood
+#: castle_of_madness\units\campaigns\feast_table.cfg:5
+msgid "Feast table"
+msgstr ""
+
+#. [unit_type]: id=fire_adept, race=human
+#: castle_of_madness\units\fire_cult\fire_adept.cfg:5
+msgid "Fire adept"
+msgstr ""
+
+#. [unit_type]: id=fire_adept, race=human
+#: castle_of_madness\units\fire_cult\fire_adept.cfg:17
+msgid "Being in cult of fire, there's obviously different sorts of people all around who all love fire. Amusingly, some of those people are even mages, and as such, every single one of them is expected to throw fireballs. Nothing else. Nothing more. Who needs healers, teleports or at least someone able to make your tea cold in mere moments? Oh well."
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\fire_adept.cfg:35
+#: castle_of_madness\units\fire_cult\fire_pyromancer.cfg:35
+#: castle_of_madness\units\fire_cult\fire_pyromaniac.cfg:36
+msgid "fire hands"
+msgstr ""
+
+#. [attack]: type=fire
+#. [attack]: type=fire      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\fire_cult\fire_adept.cfg:43
+#: castle_of_madness\units\fire_cult\fire_pyromancer.cfg:43
+#: castle_of_madness\units\fire_cult\fire_pyromaniac.cfg:44
+#: castle_of_madness\units\platypuses\platypus_annihilator.cfg:43
+#: castle_of_madness\units\platypuses\platypus_apprentice.cfg:44
+#: castle_of_madness\units\platypuses\platypus_battlemage.cfg:44
+#: castle_of_madness\units\platypuses\platypus_firemage.cfg:44
+msgid "fireball"
+msgstr ""
+
+#. [unit_type]: id=fire_ashed, race=human, description=_
+#: castle_of_madness\units\fire_cult\fire_ashed.cfg:5
+msgid "The ashed"
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\fire_ashed.cfg:36
+#: castle_of_madness\units\fire_cult\fire_burnt.cfg:35
+msgid "torch"
+msgstr ""
+
+#. [unit_type]: id=fire_being, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_being.cfg:5
+msgid "Fire being"
+msgstr ""
+
+#. [unit_type]: id=fire_being, race=fire_elementals
+#. [unit_type]: id=fire_creature, race=fire_elementals
+#. [unit_type]: id=fire_ifreet, race=fire_elementals
+#. [unit_type]: id=fire_shinyifreet, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_being.cfg:18
+#: castle_of_madness\units\fire_cult\fire_creature.cfg:18
+#: castle_of_madness\units\fire_cult\fire_ifreet.cfg:17
+#: castle_of_madness\units\fire_cult\fire_shinyifreet.cfg:17
+msgid "smoke fish everyday, okidoki?"
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\fire_being.cfg:35
+#: castle_of_madness\units\fire_cult\fire_creature.cfg:35
+#: castle_of_madness\units\fire_cult\fire_golem.cfg:36
+#: castle_of_madness\units\fire_cult\fire_ifreet.cfg:34
+#: castle_of_madness\units\fire_cult\fire_lord.cfg:36
+#: castle_of_madness\units\fire_cult\fire_monster.cfg:35
+#: castle_of_madness\units\fire_cult\fire_shinyifreet.cfg:34
+msgid "fire claws"
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\fire_being.cfg:43
+#: castle_of_madness\units\fire_cult\fire_creature.cfg:43
+#: castle_of_madness\units\fire_cult\fire_golem.cfg:44
+#: castle_of_madness\units\fire_cult\fire_ifreet.cfg:42
+#: castle_of_madness\units\fire_cult\fire_lord.cfg:44
+#: castle_of_madness\units\fire_cult\fire_monster.cfg:43
+#: castle_of_madness\units\fire_cult\fire_shinyifreet.cfg:42
+msgid "fire breath"
+msgstr ""
+
+#. [unit_type]: id=fire_believer, race=human
+#: castle_of_madness\units\fire_cult\fire_believer.cfg:5
+msgid "Believer"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: castle_of_madness\units\fire_cult\fire_believer.cfg:36
+#: castle_of_madness\units\fire_cult\fire_believer.cfg:44
+#: castle_of_madness\units\fire_cult\fire_fanatic.cfg:35
+#: castle_of_madness\units\fire_cult\fire_fanatic.cfg:43
+#: castle_of_madness\units\fire_cult\fire_warrior.cfg:37
+#: castle_of_madness\units\fire_cult\fire_warrior.cfg:45
+msgid "glaive"
+msgstr ""
+
+#. [unit_type]: id=fire_burner, race=human
+#: castle_of_madness\units\fire_cult\fire_burner.cfg:5
+msgid "Burner"
+msgstr ""
+
+#. [unit_type]: id=fire_burner, race=human
+#: castle_of_madness\units\fire_cult\fire_burner.cfg:17
+msgid "If someone decides to oppose the Fire cult, they are soon to be claimed with fire by infamous Burners."
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\fire_burner.cfg:35
+#: castle_of_madness\units\fire_cult\fire_flamer.cfg:35
+#: castle_of_madness\units\fire_cult\fire_incinerator.cfg:36
+#: castle_of_madness\units\fire_cult\Great_missionary.cfg:47
+#: castle_of_madness\units\fire_cult\Member_of_the_inner_circle.cfg:50
+#: castle_of_madness\units\fire_cult\Missionary.cfg:47
+msgid "fire brand"
+msgstr ""
+
+#. [unit_type]: id=fire_burnt, race=human, description=_
+#: castle_of_madness\units\fire_cult\fire_burnt.cfg:5
+msgid "The burnt"
+msgstr ""
+
+#. [unit_type]: id=fire_creature, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_creature.cfg:5
+msgid "Fire creature"
+msgstr ""
+
+#. [unit_type]: id=fire_fanatic, race=human
+#: castle_of_madness\units\fire_cult\fire_fanatic.cfg:5
+msgid "Fanatic"
+msgstr ""
+
+#. [unit_type]: id=fire_firecorn_knight, race=human
+#: castle_of_madness\units\fire_cult\fire_firecorn_knight.cfg:5
+msgid "Firecorn Knight"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\fire_cult\fire_firecorn_knight.cfg:40
+#: castle_of_madness\units\fire_cult\fire_firecorn_rider.cfg:39
+#: castle_of_madness\units\fire_cult\fire_unicorn_rider.cfg:40
+#: castle_of_madness\units\fire_cult\Great_missionary.cfg:36
+#: castle_of_madness\units\fire_cult\Member_of_the_inner_circle.cfg:39
+#: castle_of_madness\units\fire_cult\Missionary.cfg:36
+msgid "horn"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\fire_cult\fire_firecorn_knight.cfg:51
+#: castle_of_madness\units\fire_cult\fire_firecorn_rider.cfg:50
+msgid "hooves"
+msgstr ""
+
+#. [unit_type]: id=fire_firecorn_rider, race=human
+#: castle_of_madness\units\fire_cult\fire_firecorn_rider.cfg:5
+msgid "Firecorn Rider"
+msgstr ""
+
+#. [unit_type]: id=fire_flamer, race=human, description=_
+#: castle_of_madness\units\fire_cult\fire_flamer.cfg:5
+msgid "Flamer"
+msgstr ""
+
+#. [unit_type]: id=fire_golem, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_golem.cfg:5
+msgid "Fire golem"
+msgstr ""
+
+#. [unit_type]: id=fire_golem, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_golem.cfg:19
+msgid "burnt fish"
+msgstr ""
+
+#. [attack]: type=arcane
+#: castle_of_madness\units\fire_cult\fire_golem.cfg:52
+#: castle_of_madness\units\fire_cult\fire_ifreet.cfg:50
+#: castle_of_madness\units\fire_cult\fire_lord.cfg:52
+#: castle_of_madness\units\fire_cult\fire_shinyifreet.cfg:50
+msgid "magic bolt"
+msgstr ""
+
+#. [unit_type]: id=fire_ifreet, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_ifreet.cfg:5
+msgid "Fire ifreet"
+msgstr ""
+
+#. [unit_type]: id=fire_incinerator, race=human, description=_
+#: castle_of_madness\units\fire_cult\fire_incinerator.cfg:5
+msgid "Incinerator"
+msgstr ""
+
+#. [unit_type]: id=fire_lord, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_lord.cfg:5
+msgid "Fire lord"
+msgstr ""
+
+#. [unit_type]: id=fire_lord, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_lord.cfg:19
+msgid "superhot fish"
+msgstr ""
+
+#. [unit_type]: id=fire_master_slinger, race=human
+#. [unit_type]: id=fire_thrower, race=human
+#: castle_of_madness\units\fire_cult\Fire_master_slinger.cfg:5
+#: castle_of_madness\units\fire_cult\Fire_thrower.cfg:5
+msgid "Master Slinger"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=blade       ##колущий режущий тд
+#. [attack]: type=pierce       ##колущий режущий тд
+#: castle_of_madness\units\fire_cult\Fire_master_slinger.cfg:35
+#: castle_of_madness\units\platypuses\platypus_assassin.cfg:36
+#: castle_of_madness\units\platypuses\platypus_assassin.cfg:44
+#: castle_of_madness\units\platypuses\platypus_cutthroat.cfg:36
+#: castle_of_madness\units\platypuses\platypus_defector.cfg:36
+#: castle_of_madness\units\platypuses\platypus_thief.cfg:36
+#: castle_of_madness\units\platypuses\platypus_thief.cfg:44
+msgid "dagger"
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\Fire_master_slinger.cfg:51
+msgid "fire_sling"
+msgstr ""
+
+#. [unit_type]: id=fire_monster, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_monster.cfg:5
+msgid "Fire monster"
+msgstr ""
+
+#. [unit_type]: id=fire_pyromancer, race=human
+#: castle_of_madness\units\fire_cult\fire_pyromancer.cfg:5
+msgid "Pyromancer"
+msgstr ""
+
+#. [unit_type]: id=fire_pyromancer, race=human
+#: castle_of_madness\units\fire_cult\fire_pyromancer.cfg:17
+msgid "Pyromancers have the honour of starting the fires for whatever reasons the fire cult might need them. With fireballs, obviously. And since fire cult needs fire everywhere, all the time, pyromancers are never out of jobs to do. At least they get paid with fireballs for their jobs!"
+msgstr ""
+
+#. [unit_type]: id=fire_pyromaniac, race=human
+#: castle_of_madness\units\fire_cult\fire_pyromaniac.cfg:5
+msgid "Pyromaniac"
+msgstr ""
+
+#. [unit_type]: id=fire_pyromaniac, race=human
+#: castle_of_madness\units\fire_cult\fire_pyromaniac.cfg:18
+msgid "As fire adepts continue to improve their fireballing skills, they keep earning new ranks and promotions. Which means throwing more fireballs. MORE fireballs. MORE FIREBALLS. Someone might even assume they throw fireballs even while sleeping. They might be. in fact."
+msgstr ""
+
+#. [unit_type]: id=fire_shinyifreet, race=fire_elementals
+#: castle_of_madness\units\fire_cult\fire_shinyifreet.cfg:5
+msgid "Shiny ifreet"
+msgstr ""
+
+#. [unit_type]: id=fire_slinger, race=human
+#: castle_of_madness\units\fire_cult\Fire_slinger.cfg:5
+msgid "Slinger"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\fire_cult\Fire_slinger.cfg:35
+msgid "punch"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\fire_cult\Fire_slinger.cfg:43
+msgid "sling"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\fire_cult\Fire_thrower.cfg:35
+msgid "Short sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#. [attack]: type=impact
+#: castle_of_madness\units\fire_cult\Fire_thrower.cfg:43
+#: castle_of_madness\units\mechanisms\mech_crossbow_tower.cfg:31
+msgid "Crossbow"
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\Fire_thrower.cfg:51
+msgid "Fire arrow"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\fire_cult\Fire_thrower.cfg:59
+msgid "Crushing arrow"
+msgstr ""
+
+#. [unit_type]: id=fire_unicorn_rider, race=human
+#: castle_of_madness\units\fire_cult\fire_unicorn_rider.cfg:5
+msgid "Unicorn rider"
+msgstr ""
+
+#. [unit_type]: id=Great_missionary, race=human
+#: castle_of_madness\units\fire_cult\Great_missionary.cfg:4
+msgid "Great missionary"
+msgstr ""
+
+#. [unit_type]: id=Great_missionary, race=human
+#. [unit_type]: id=Missionary, race=human
+#: castle_of_madness\units\fire_cult\Great_missionary.cfg:17
+#: castle_of_madness\units\fire_cult\Missionary.cfg:17
+msgid "Людей, обладающих особыми ораторскими способностями крайне почитают в Культе. Их обучение проходит в отдалении от основных культистов, а все ради того, чтобы воспитать из них истинных распространителей веры. Именно миссионеры, разъезжая по деревням, несут слово Бога Огня всей округе, а молва об их действиях, порой, обгоняет их появление."
+msgstr ""
+
+#. [unit_type]: id=Member_of_the_inner_circle, race=human
+#: castle_of_madness\units\fire_cult\Member_of_the_inner_circle.cfg:4
+msgid "Member of the inner circle"
+msgstr ""
+
+#. [unit_type]: id=Member_of_the_inner_circle, race=human
+#: castle_of_madness\units\fire_cult\Member_of_the_inner_circle.cfg:17
+msgid "Даже среди культистов есть те, кто смог взобраться по карьерной лестнице. Особо отличившиеся вступают в Тайный круг, управляющий всем культом. Также такие люди получают доступ к общению с самим Повелителем Культистов, а он, в свою очередь дарует им возможность управлять огнем."
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\fire_cult\Member_of_the_inner_circle.cfg:61
+msgid "Fireball"
+msgstr ""
+
+#. [unit_type]: id=Missionary, race=human
+#: castle_of_madness\units\fire_cult\Missionary.cfg:4
+msgid "Missionary"
+msgstr ""
+
+#. [unit_type]: id=main_bovem, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_bovem.cfg:5
+msgid "Bovem"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\homunculus\main_bovem.cfg:35
+#: castle_of_madness\units\homunculus\main_exterminatore.cfg:35
+msgid "ram"
+msgstr ""
+
+#. [unit_type]: id=main_caenum_platearum, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_caenum_platearum.cfg:5
+msgid "Caenum Platearum"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\homunculus\main_caenum_platearum.cfg:44
+#: castle_of_madness\units\homunculus\main_exitium.cfg:43
+#: castle_of_madness\units\homunculus\main_homunculus.cfg:43
+#: castle_of_madness\units\homunculus\main_mortum.cfg:43
+#: castle_of_madness\units\main\main_crossbowman.cfg:43
+#: castle_of_madness\units\main\main_crossbowmaster.cfg:44
+#: castle_of_madness\units\main\main_guardcaptain.cfg:50
+#: castle_of_madness\units\main\main_guardgeneral.cfg:54
+#: castle_of_madness\units\main\main_guardleader.cfg:55
+msgid "crossbow"
+msgstr ""
+
+#. [unit_type]: id=main_exitium, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_exitium.cfg:5
+msgid "Exitium"
+msgstr ""
+
+#. [unit_type]: id=main_exterminatore, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_exterminatore.cfg:5
+msgid "Exterminatore"
+msgstr ""
+
+#. [unit_type]: id=main_flamma, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_flamma.cfg:5
+msgid "Flamma"
+msgstr ""
+
+#. [unit_type]: id=main_homunculus, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_homunculus.cfg:5
+msgid "Homunculus"
+msgstr ""
+
+#. [unit_type]: id=main_ignis, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_ignis.cfg:5
+msgid "Ignis"
+msgstr ""
+
+#. [unit_type]: id=main_mortum, race=mechanical, description=_
+#: castle_of_madness\units\homunculus\main_mortum.cfg:5
+msgid "Mortum"
+msgstr ""
+
+#. [unit_type]: id=kiwidator, race=monster
+#: castle_of_madness\units\mad_monsters\monster_kiwidator.cfg:5
+msgid "Kiwidator"
+msgstr ""
+
+#. [unit_type]: id=kiwidator, race=monster
+#: castle_of_madness\units\mad_monsters\monster_kiwidator.cfg:16
+msgid "om nom nom nom"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\mad_monsters\monster_kiwidator.cfg:20
+msgid "bite"
+msgstr ""
+
+#. [unit_type]: id=mage_death, race=human
+#: castle_of_madness\units\main\mage_destruction.cfg:5
+msgid "Black mage"
+msgstr ""
+
+#. [attack]: type=impact       ##колущий режущий тд
+#. [attack]: type=arcane       ##колущий режущий тд
+#. [attack]: type=impact      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#. [attack]: type=impact
+#: castle_of_madness\units\main\mage_destruction.cfg:25
+#: castle_of_madness\units\main\mage_destruction.cfg:33
+#: castle_of_madness\units\platypuses\platypus_annihilator.cfg:35
+#: castle_of_madness\units\platypuses\platypus_apprentice.cfg:36
+#: castle_of_madness\units\platypuses\platypus_battlemage.cfg:36
+#: castle_of_madness\units\platypuses\platypus_beermage.cfg:38
+#: castle_of_madness\units\platypuses\platypus_firemage.cfg:36
+#: castle_of_madness\units\platypuses\platypus_kiselmage.cfg:39
+#: castle_of_madness\units\toadlings\toadlings_majormudomancer.cfg:39
+#: castle_of_madness\units\toadlings\toadlings_minormudomancer.cfg:37
+#: castle_of_madness\units\toadlings\toadlings_mudomancer.cfg:37
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=impact       ##колущий режущий тд
+#. [attack]: type=impact      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\main\mage_destruction.cfg:41
+#: castle_of_madness\units\platypuses\platypus_annihilator.cfg:54
+#: castle_of_madness\units\platypuses\platypus_battlemage.cfg:55
+#: castle_of_madness\units\platypuses\platypus_firemage.cfg:55
+msgid "destruction wave"
+msgstr ""
+
+#. [attack]: type=arcane       ##колущий режущий тд
+#: castle_of_madness\units\main\mage_destruction.cfg:52
+msgid "energy wave"
+msgstr ""
+
+#. [attack]: type=fire       ##колущий режущий тд
+#: castle_of_madness\units\main\mage_destruction.cfg:63
+msgid "firewave"
+msgstr ""
+
+#. [unit_type]: id=main_archer, race=human, description=_
+#: castle_of_madness\units\main\main_archer.cfg:5
+msgid "Archer"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\main\main_archer.cfg:36
+msgid "short sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\main\main_archer.cfg:44
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=main_cavalry, race=human, description=_
+#: castle_of_madness\units\main\main_cavalry.cfg:5
+msgid "Cavalry"
+msgstr ""
+
+#. [unit_type]: id=main_crossbowman, race=human, description=_
+#: castle_of_madness\units\main\main_crossbowman.cfg:5
+msgid "Crossbowman"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\main\main_crossbowman.cfg:35
+#: castle_of_madness\units\main\main_crossbowmaster.cfg:36
+msgid "blade"
+msgstr ""
+
+#. [unit_type]: id=main_crossbowmaster, race=human, description=_
+#: castle_of_madness\units\main\main_crossbowmaster.cfg:5
+msgid "Crossbowmaster"
+msgstr ""
+
+#. [unit_type]: id=main_cuirassier, race=human, description=_
+#: castle_of_madness\units\main\main_cuirassier.cfg:5
+msgid "Сuirassier"
+msgstr ""
+
+#. [unit_type]: id=main_dragoon, race=human, description=_
+#: castle_of_madness\units\main\main_dragoon.cfg:5
+msgid "Dragoon"
+msgstr ""
+
+#. [unit_type]: id=main_fighter, race=human
+#: castle_of_madness\units\main\main_fighter.cfg:5
+msgid "Fighter"
+msgstr ""
+
+#. [unit_type]: id=main_fist, race=human, description=_
+#: castle_of_madness\units\main\main_fist.cfg:5
+msgid "Main's fist"
+msgstr ""
+
+#. [unit_type]: id=main_guardcaptain, race=human
+#: castle_of_madness\units\main\main_guardcaptain.cfg:5
+msgid "Guard captain"
+msgstr ""
+
+#. [unit_type]: id=main_guardgeneral, race=human
+#: castle_of_madness\units\main\main_guardgeneral.cfg:5
+msgid "Guard general"
+msgstr ""
+
+#. [unit_type]: id=main_guardleader, race=human
+#: castle_of_madness\units\main\main_guardleader.cfg:5
+msgid "Guard leader"
+msgstr ""
+
+#. [unit_type]: id=main_illusionist, race=human
+#: castle_of_madness\units\main\main_illusionist.cfg:5
+msgid "Illusionist"
+msgstr ""
+
+#. [attack]: type=arcane
+#: castle_of_madness\units\main\main_illusionist.cfg:43
+#: castle_of_madness\units\main\main_illusionmaster.cfg:44
+#: castle_of_madness\units\main\main_masterfulillusionist.cfg:43
+#: castle_of_madness\units\main\main_noviceillusionist.cfg:43
+msgid "illusion"
+msgstr ""
+
+#. [attack]: type=arcane
+#: castle_of_madness\units\main\main_illusionist.cfg:54
+#: castle_of_madness\units\main\main_illusionmaster.cfg:55
+#: castle_of_madness\units\main\main_masterfulillusionist.cfg:54
+msgid "battle illusion"
+msgstr ""
+
+#. [unit_type]: id=main_illusionmaster, race=human
+#: castle_of_madness\units\main\main_illusionmaster.cfg:5
+msgid "Illusion master"
+msgstr ""
+
+#. [unit_type]: id=main_mainsdefender, race=human, description=_
+#: castle_of_madness\units\main\main_mainsdefender.cfg:5
+msgid "Main's defender"
+msgstr ""
+
+#. [unit_type]: id=main_mainsguard, race=human, description=_
+#: castle_of_madness\units\main\main_mainsguard.cfg:5
+msgid "Main's guard"
+msgstr ""
+
+#. [unit_type]: id=main_masterfulillusionist, race=human
+#: castle_of_madness\units\main\main_masterfulillusionist.cfg:5
+msgid "Masterful illusionist"
+msgstr ""
+
+#. [unit_type]: id=main_militia, race=human, description=_
+#: castle_of_madness\units\main\main_militia.cfg:5
+msgid "Militia"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\main\main_militia.cfg:36
+#: castle_of_madness\units\toadlings\toadlings_bigtoadogre.cfg:40
+#: castle_of_madness\units\toadlings\toadlings_toadogre.cfg:40
+msgid "club"
+msgstr ""
+
+#. [unit_type]: id=main_noviceillusionist, race=human
+#: castle_of_madness\units\main\main_noviceillusionist.cfg:5
+msgid "novice illusionist"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\main\main_noviceillusionist.cfg:35
+msgid "shortsword"
+msgstr ""
+
+#. [unit_type]: id=main_recruit, race=human
+#. [campaign]: id=the_main_story
+#: castle_of_madness\units\main\main_recruit.cfg:5
+#: castle_of_madness\_main.cfg:54
+msgid "Recruit"
+msgstr ""
+
+#. [unit_type]: id=main_swordman, race=human, race=human, description=_
+#: castle_of_madness\units\main\main_swordman.cfg:5
+msgid "Swordman"
+msgstr ""
+
+#. [unit_type]: id=main_swordmaster, race=human, race=human, description=_
+#: castle_of_madness\units\main\main_swordmaster.cfg:5
+msgid "Swordmaster"
+msgstr ""
+
+#. [unit_type]: id=main_swordspecialist, race=human, race=human, description=_
+#: castle_of_madness\units\main\main_swordspecialist.cfg:5
+msgid "Sword specialist"
+msgstr ""
+
+#. [unit_type]: id=main_veteran, race=human
+#: castle_of_madness\units\main\main_veteran.cfg:5
+msgid "Veteran"
+msgstr ""
+
+#. [unit_type]: id=main_lordmoderator, race=human, description=_
+#: castle_of_madness\units\main_moderators\main_lordmoderator.cfg:5
+msgid "Lord-moderator"
+msgstr ""
+
+#. [unit_type]: id=mech_arrow_tower, race=mechanisms, description=_
+#: castle_of_madness\units\mechanisms\mech_arrow_tower.cfg:5
+#: castle_of_madness\units\mechanisms\mech_mage_tower.cfg:5
+msgid "Arrow tower"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\mechanisms\mech_arrow_tower.cfg:31
+msgid "Bow"
+msgstr ""
+
+#. [unit_type]: id=mech_bomb, race=mechanisms
+#: castle_of_madness\units\mechanisms\mech_bomb.cfg:5
+msgid "Bomb"
+msgstr ""
+
+#. [unit_type]: id=mech_bomb, race=mechanisms
+#: castle_of_madness\units\mechanisms\mech_bomb.cfg:16
+msgid "Tick. Tock. Tick. Tock."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\mechanisms\mech_bomb.cfg:35
+msgid "Headbutt"
+msgstr ""
+
+#. [unit_type]: id=mech_catapult, race=mechanisms
+#: castle_of_madness\units\mechanisms\mech_catapult.cfg:5
+msgid "Catapult"
+msgstr ""
+
+#. [unit_type]: id=mech_catapult, race=mechanisms
+#: castle_of_madness\units\mechanisms\mech_catapult.cfg:16
+msgid "YEET"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\mechanisms\mech_catapult.cfg:35
+msgid "Run over"
+msgstr ""
+
+#. [unit_type]: id=mech_crossbow_tower, race=mechanisms, description=_
+#: castle_of_madness\units\mechanisms\mech_crossbow_tower.cfg:5
+msgid "Crossbow tower"
+msgstr ""
+
+#. [attack]: type=fire
+#: castle_of_madness\units\mechanisms\mech_mage_tower.cfg:31
+msgid "Fire blast"
+msgstr ""
+
+#. [attack]: type=arcane
+#: castle_of_madness\units\mechanisms\mech_mage_tower.cfg:42
+msgid "Arcane blast"
+msgstr ""
+
+#. [unit_type]: id=mech_steamtank, race=mechanisms
+#: castle_of_madness\units\mechanisms\mech_steamtank.cfg:5
+msgid "Steamtank"
+msgstr ""
+
+#. [unit_type]: id=mech_steamtank, race=mechanisms
+#: castle_of_madness\units\mechanisms\mech_steamtank.cfg:18
+msgid "IT'S A FUCKING STEAMTANK!"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\mechanisms\mech_steamtank.cfg:36
+msgid "Cannon"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\mechanisms\mech_steamtank.cfg:44
+msgid "Machinegun"
+msgstr ""
+
+#. [unit_type]: id=merc_conservativator, race=humans
+#: castle_of_madness\units\mercenaries\merc_conservativator.cfg:4
+msgid "Conservativator"
+msgstr ""
+
+#. [unit_type]: id=merc_conservativator, race=humans
+#. [unit_type]: id=merc_conservator, race=humans
+#. [unit_type]: id=merc_conserver, race=humans
+#: castle_of_madness\units\mercenaries\merc_conservativator.cfg:17
+#: castle_of_madness\units\mercenaries\merc_conservator.cfg:16
+#: castle_of_madness\units\mercenaries\merc_conserver.cfg:16
+msgid "The traditionalist mercenaries, those fierce warriors try to conserve their enemies with sprays of ice."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\mercenaries\merc_conservativator.cfg:37
+#: castle_of_madness\units\mercenaries\merc_conservator.cfg:36
+#: castle_of_madness\units\mercenaries\merc_conserver.cfg:36
+msgid "crowbar"
+msgstr ""
+
+#. [attack]: type=cold
+#: castle_of_madness\units\mercenaries\merc_conservativator.cfg:45
+#: castle_of_madness\units\mercenaries\merc_conservator.cfg:44
+#: castle_of_madness\units\mercenaries\merc_conserver.cfg:44
+msgid "icethrower"
+msgstr ""
+
+#. [unit_type]: id=merc_conservator, race=humans
+#: castle_of_madness\units\mercenaries\merc_conservator.cfg:4
+msgid "Conservator"
+msgstr ""
+
+#. [unit_type]: id=merc_conserver, race=humans
+#: castle_of_madness\units\mercenaries\merc_conserver.cfg:4
+msgid "Conserver"
+msgstr ""
+
+#. [unit_type]: id=merc_elderstone, race=humans, description=_
+#: castle_of_madness\units\mercenaries\merc_elderstone.cfg:4
+msgid "Elder stone"
+msgstr ""
+
+#. [unit_type]: id=merc_experiencedsvalker, race=human
+#: castle_of_madness\units\mercenaries\merc_experiencedsvalker.cfg:5
+msgid "Experienced svalker"
+msgstr ""
+
+#. [unit_type]: id=merc_experiencedsvalker, race=human
+#: castle_of_madness\units\mercenaries\merc_experiencedsvalker.cfg:22
+msgid "Leaders of their own svalker gangs, experienced svalkers possess enough artifacts to guarantee themself long and rich lifes, yet their thirst for more is now unstoppable."
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\mercenaries\merc_experiencedsvalker.cfg:49
+#: castle_of_madness\units\mercenaries\merc_extraordinarysvalker.cfg:50
+#: castle_of_madness\units\mercenaries\merc_svalker.cfg:49
+#: castle_of_madness\units\platypuses\platypus_platypuscrew.cfg:36
+msgid "pistole"
+msgstr ""
+
+#. [unit_type]: id=merc_extraordinarysvalker, race=human
+#: castle_of_madness\units\mercenaries\merc_extraordinarysvalker.cfg:5
+msgid "Extraordinary svalker"
+msgstr ""
+
+#. [unit_type]: id=merc_extraordinarysvalker, race=human
+#: castle_of_madness\units\mercenaries\merc_extraordinarysvalker.cfg:23
+msgid "The mysterious leaders of Svalker group, those extraordinary persons are rumoured to have artifacts of immmense power, greatly prolonging their life, protecting them from any hazzards and even giving them power over people."
+msgstr ""
+
+#. [unit_type]: id=merc_majorstone, race=stones
+#: castle_of_madness\units\mercenaries\merc_majorstone.cfg:5
+msgid "Major stone"
+msgstr ""
+
+#. [unit_type]: id=merc_majorstone, race=stones
+#: castle_of_madness\units\mercenaries\merc_majorstone.cfg:18
+msgid "not actually a fish"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\mercenaries\merc_majorstone.cfg:38
+#: castle_of_madness\units\mercenaries\merc_minorrunestone.cfg:36
+#: castle_of_madness\units\mercenaries\merc_minorstone.cfg:37
+#: castle_of_madness\units\mercenaries\merc_stonedefender.cfg:38
+msgid "stone fist"
+msgstr ""
+
+#. [unit_type]: id=merc_minorrunestone, race=stones
+#: castle_of_madness\units\mercenaries\merc_minorrunestone.cfg:4
+msgid "Minor runestone"
+msgstr ""
+
+#. [unit_type]: id=merc_minorstone, race=stones
+#: castle_of_madness\units\mercenaries\merc_minorstone.cfg:4
+msgid "Minor stone"
+msgstr ""
+
+#. [unit_type]: id=merc_minorstone, race=stones
+#: castle_of_madness\units\mercenaries\merc_minorstone.cfg:17
+msgid "Stout defenders of their older brothers, those minor stones surely can take quite a punch."
+msgstr ""
+
+#. [unit_type]: id=merc_nightshadow, race=humans, description=_
+#: castle_of_madness\units\mercenaries\merc_nightshadow.cfg:4
+msgid "Nightshadow"
+msgstr ""
+
+#. [unit_type]: id=merc_poisoner, race=humans, description=_
+#: castle_of_madness\units\mercenaries\merc_poisoner.cfg:4
+msgid "Poisoner"
+msgstr ""
+
+#. [unit_type]: id=merc_stonecommander, race=humans, description=_
+#: castle_of_madness\units\mercenaries\merc_stonecommander.cfg:4
+msgid "Stone commander"
+msgstr ""
+
+#. [unit_type]: id=merc_stonedefender, race=stones
+#: castle_of_madness\units\mercenaries\merc_stonedefender.cfg:4
+msgid "Stone defender"
+msgstr ""
+
+#. [unit_type]: id=merc_stonedefender, race=stones
+#: castle_of_madness\units\mercenaries\merc_stonedefender.cfg:18
+msgid "Toughest minor stones are proclaimed defenders for their unrivable stubborness."
+msgstr ""
+
+#. [unit_type]: id=merc_stonewarrior, race=stones
+#: castle_of_madness\units\mercenaries\merc_stonewarrior.cfg:4
+msgid "Stone warrior"
+msgstr ""
+
+#. [unit_type]: id=merc_stonewarrior, race=stones
+#: castle_of_madness\units\mercenaries\merc_stonewarrior.cfg:17
+msgid "Additional training further enchances the durability of minor stones."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\mercenaries\merc_stonewarrior.cfg:35
+msgid "stonefist"
+msgstr ""
+
+#. [unit_type]: id=merc_svalker, race=human
+#: castle_of_madness\units\mercenaries\merc_svalker.cfg:5
+msgid "Svalker"
+msgstr ""
+
+#. [unit_type]: id=merc_svalker, race=human
+#: castle_of_madness\units\mercenaries\merc_svalker.cfg:22
+msgid "As svalkers progress with their scavenging, their power grows, as they train harder and constantly explore the world for even more artifacts to add to their colection."
+msgstr ""
+
+#. [unit_type]: id=merc_youngsvalker, race=human
+#. [campaign]: id=castle_of_madness
+#: castle_of_madness\units\mercenaries\merc_youngsvalker.cfg:5
+#: castle_of_madness\_main.cfg:41
+msgid "Young svalker"
+msgstr ""
+
+#. [unit_type]: id=merc_youngsvalker, race=human
+#: castle_of_madness\units\mercenaries\merc_youngsvalker.cfg:22
+msgid "The youngest members of the Svalker order, those poor souls are on constant look-out for some sort of minor artifacts in garbage dumps, swamps, ruins and other scary places. Such a harsh training leaves few survivors, but those who comeback do so with a minor artifact to boost their powers in a unique way and strong sword skills."
+msgstr ""
+
+#. [unit_type]: id=merdahs_axethrower, race=merdahs
+#: castle_of_madness\units\merdahs\merdahs_axethrower.cfg:5
+msgid "Axe thrower"
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\merdahs\merdahs_axethrower.cfg:36
+msgid "Axe throw"
+msgstr ""
+
+#. [unit_type]: id=merdahs_bouncer, race=merdahs
+#: castle_of_madness\units\merdahs\merdahs_bouncer.cfg:5
+msgid "Bouncer"
+msgstr ""
+
+#. [unit_type]: id=merdahs_bully, race=merdahs
+#: castle_of_madness\units\merdahs\merdahs_bully.cfg:5
+msgid "Bully"
+msgstr ""
+
+#. [unit_type]: id=merdahs_protector, race=merdahs
+#: castle_of_madness\units\merdahs\merdahs_protector.cfg:5
+msgid "Protector"
+msgstr ""
+
+#. [unit_type]: id=platypus_annihilator, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_annihilator.cfg:15
+msgid "Mastery of staff and magic brings the mages another rank, called Annihilator, and such mages fully justify their titles - destroying entire squads with pure elementalistic magic or burning even the strongest enemies to the ashes."
+msgstr ""
+
+#. [unit_type]: id=platypus_apprentice, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_apprentice.cfg:16
+msgid "Some platypuses have a natural attune for magic, and after some training they are capable of using it in battles. Although unexperienced and weak in melee fights, the power of elements they can unleash is something the enemies of Platybadger clan has to be cautious of."
+msgstr ""
+
+#. [unit_type]: id=platypus_assassin, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_assassin.cfg:5
+msgid "Assassin"
+msgstr ""
+
+#. [unit_type]: id=platypus_bandit, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_bandit.cfg:16
+msgid "Very bad boys, for sure!"
+msgstr ""
+
+#. [attack]: type=impact      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\platypuses\platypus_bandit.cfg:36
+#: castle_of_madness\units\platypuses\platypus_hogtamer.cfg:36
+msgid "stick"
+msgstr ""
+
+#. [unit_type]: id=platypus_beermage, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_beermage.cfg:15
+msgid "Strong, kind and drunk, those mages bring forward the much-needed supplies of beer to refresh and support attacking forces."
+msgstr ""
+
+#. [attack]: type=arcane      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\platypuses\platypus_beermage.cfg:46
+msgid "beerbeam"
+msgstr ""
+
+#. [unit_type]: id=platypus_cutthroat, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_cutthroat.cfg:5
+msgid "Cutthroat"
+msgstr ""
+
+#. [attack]: type=pierce       ##колущий режущий тд
+#: castle_of_madness\units\platypuses\platypus_cutthroat.cfg:44
+#: castle_of_madness\units\platypuses\platypus_defector.cfg:44
+msgid "javelin"
+msgstr ""
+
+#. [unit_type]: id=platypus_defector, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_defector.cfg:5
+msgid "Defector"
+msgstr ""
+
+#. [unit_type]: id=platypus_elitespearplatypus, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_elitespearplatypus.cfg:17
+msgid "The masters of spear among platypuses earn the rank of Elite, and confirm it again and again in the countless battles they've participated at. They also presumably are so strong they can even drink on par with a badger. A baby badger, sure, but still, that's progress!"
+msgstr ""
+
+#. [attack]: type=pierce      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\platypuses\platypus_elitespearplatypus.cfg:51
+#: castle_of_madness\units\platypuses\platypus_expertjaveliner.cfg:51
+#: castle_of_madness\units\platypuses\platypus_javeliner.cfg:50
+#: castle_of_madness\units\platypuses\platypus_spearplatypus.cfg:50
+#: castle_of_madness\units\platypuses\platypus_veteranspearplatypus.cfg:50
+msgid "javeline"
+msgstr ""
+
+#. [unit_type]: id=platypus_expertjaveliner, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_expertjaveliner.cfg:17
+msgid "The best of platypus javeliners are able to rain down a storm of javelines on their enemies followed by a fierce spear attack, decimating lightly-armored enemies. Sadly, the long-lasting traditions of javelin-throwing and club-hitting are now slowly disappearing due to appearance of new shiny and boomy rifles. Although, there'll always be platypuses which gonna complain about how older days were so much better then the old ones."
+msgstr ""
+
+#. [unit_type]: id=platypus_firemage, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_firemage.cfg:16
+msgid "After earning some experience in battles and improving their staff and magic mastery, platypus mages become a fearful enemy for anyone but strongest enemies."
+msgstr ""
+
+#. [unit_type]: id=platypus_hogtamer, race=platypuses
+#. [unit_type]: id=platypus_knavepus, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_hogtamer.cfg:16
+#: castle_of_madness\units\platypuses\platypus_knavepus.cfg:16
+msgid "Very bad boys, i think?"
+msgstr ""
+
+#. [unit_type]: id=platypus_javeliner, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_javeliner.cfg:16
+msgid "Experts with javelines, platypuses often are trained well enough to be able to compete with begginer bowmen, while still being able to perform well in melee."
+msgstr ""
+
+#. [unit_type]: id=platypus_kiselmage, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_kiselmage.cfg:16
+msgid "Proud of their work, those warriors of kisel support their attacking forces by feeding the wounded life-saving substance named kisel."
+msgstr ""
+
+#. [attack]: type=arcane      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\platypuses\platypus_kiselmage.cfg:47
+msgid "kiselbeam"
+msgstr ""
+
+#. [unit_type]: id=platypus_kiwilord, race=platypuses, description=_
+#: castle_of_madness\units\platypuses\platypus_kiwilord.cfg:5
+msgid "Kiwi lord"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\platypuses\platypus_kiwilord.cfg:35
+#: castle_of_madness\units\platypuses\platypus_kiwirider.cfg:35
+msgid "kiwi kick"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\platypuses\platypus_kiwilord.cfg:43
+#: castle_of_madness\units\platypuses\platypus_kiwirider.cfg:43
+msgid "beak"
+msgstr ""
+
+#. [unit_type]: id=platypus_kiwirider, race=platypuses, description=_
+#: castle_of_madness\units\platypuses\platypus_kiwirider.cfg:5
+msgid "Kiwi rider"
+msgstr ""
+
+#. [unit_type]: id=platypus_machinegunner, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_machinegunner.cfg:16
+msgid "fishfishfish"
+msgstr ""
+
+#. [attack]: type=impact      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#. [attack]: type=impact       ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\platypuses\platypus_machinegunner.cfg:37
+#: castle_of_madness\units\platypuses\platypus_marksplatypus.cfg:38
+#: castle_of_madness\units\platypuses\platypus_rapidfire.cfg:37
+#: castle_of_madness\units\platypuses\platypus_shooter.cfg:38
+#: castle_of_madness\units\platypuses\platypus_sniper.cfg:38
+msgid "buttstock"
+msgstr ""
+
+#. [attack]: type=pierce     ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#. [attack]: type=pierce      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#. [attack]: type=pierce       ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
+#: castle_of_madness\units\platypuses\platypus_machinegunner.cfg:45
+#: castle_of_madness\units\platypuses\platypus_marksplatypus.cfg:46
+#: castle_of_madness\units\platypuses\platypus_rapidfire.cfg:45
+#: castle_of_madness\units\platypuses\platypus_shooter.cfg:46
+#: castle_of_madness\units\platypuses\platypus_sniper.cfg:46
+msgid "rifle"
+msgstr ""
+
+#. [unit_type]: id=platypus_marksplatypus, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_marksplatypus.cfg:17
+msgid "More sane shooters choose to enchance their aim, and after long trainings and unique rifle enchancement called "
+msgstr ""
+
+#. [unit_type]: id=platypus_outlaw, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_outlaw.cfg:17
+msgid "Very bad boys, or are they?"
+msgstr ""
+
+#. [unit_type]: id=platypus_platypuscrew, race=platypuses, description=_
+#: castle_of_madness\units\platypuses\platypus_platypuscrew.cfg:4
+msgid "Platypus crew"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\platypuses\platypus_platypuscrew.cfg:44
+#: castle_of_madness\units\toadlings\toadlings_smalltoadling.cfg:39
+#: castle_of_madness\units\toadlings\toadlings_toadlings.cfg:42
+msgid "fist"
+msgstr ""
+
+#. [unit_type]: id=platypus_rapidfire, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_rapidfire.cfg:16
+msgid "Some shooters are amused with the thunder and explosions of rifle, and choose to enchance that by greatly improving the firerate of their rifles, resuling in Rapidshooters."
+msgstr ""
+
+#. [unit_type]: id=platypus_roguepus, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_roguepus.cfg:16
+msgid "Very bad boys, perhaps?"
+msgstr ""
+
+#. [unit_type]: id=platypus_shooter, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_shooter.cfg:5
+msgid "Shooter"
+msgstr ""
+
+#. [unit_type]: id=platypus_shooter, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_shooter.cfg:17
+msgid "Being naturally swift and agile, platypuses tended to be archers in most fights, but alliance with badgers has brought them a new unique weapon - the rifle, which gave platypuses a great edge in ranged fights."
+msgstr ""
+
+#. [unit_type]: id=platypus_sniper, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_sniper.cfg:17
+msgid "Some marksplatypuses become masters of precise shots. Such legendaries are granted the rank of Sniper and better, bigger scopes."
+msgstr ""
+
+#. [unit_type]: id=platypus_spearplatypus, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_spearplatypus.cfg:16
+msgid "Naturally swift but fragile, platypuses tend to avoid melee fights, but if they have to participate in some, they equip spears to fend off assaults and javelines to safely barrage enemies from a distance."
+msgstr ""
+
+#. [unit_type]: id=platypus_thief, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_thief.cfg:5
+msgid "Thief"
+msgstr ""
+
+#. [unit_type]: id=platypus_veteranspearplatypus, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_veteranspearplatypus.cfg:16
+msgid "More experienced spear platypuses earn the rank of veterans, and behave in attack just as well as in defence."
+msgstr ""
+
+#. [unit_type]: id=toadlings_awesometoadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_awesometoadotoad.cfg:5
+msgid "Awesome toadotoad"
+msgstr ""
+
+#. [unit_type]: id=toadlings_awesometoadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_awesometoadotoad.cfg:21
+msgid "The biggest and the awesomest of toadotoad pairs have the biggest sticks, stones, things to colour their sticks with, and exceptional level of teamwork. Still not enough to be able to poke stuff with sticks and throw stones in it simultaneously, though. Extremely amazing."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_awesometoadotoad.cfg:49
+#: castle_of_madness\units\toadlings\toadlings_greatertoadotoad.cfg:48
+#: castle_of_madness\units\toadlings\toadlings_hypnotoadotoad.cfg:46
+#: castle_of_madness\units\toadlings\toadlings_smalltoadling.cfg:47
+#: castle_of_madness\units\toadlings\toadlings_toadlinggang.cfg:44
+#: castle_of_madness\units\toadlings\toadlings_toadlinghorde.cfg:45
+#: castle_of_madness\units\toadlings\toadlings_toadlings.cfg:50
+#: castle_of_madness\units\toadlings\toadlings_toadlingscolumn.cfg:55
+#: castle_of_madness\units\toadlings\toadlings_toadlingspillar.cfg:55
+#: castle_of_madness\units\toadlings\toadlings_toadlingstower.cfg:55
+#: castle_of_madness\units\toadlings\toadlings_toadlingswarm.cfg:45
+#: castle_of_madness\units\toadlings\toadlings_toadotoad.cfg:48
+msgid "stones"
+msgstr ""
+
+#. [unit_type]: id=toadlings_bigtoadogre, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_bigtoadogre.cfg:5
+msgid "Big Toadogre"
+msgstr ""
+
+#. [unit_type]: id=toadlings_bigtoadogre, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_bigtoadogre.cfg:17
+msgid "As ogres grow bigger, they find some clothes for themself to wear, while the bard continiues to improve it's hat. And hopefully singing. Probably. It's not that terrible, right?"
+msgstr ""
+
+#. [attack]: type=arcane
+#: castle_of_madness\units\toadlings\toadlings_bigtoadogre.cfg:48
+#: castle_of_madness\units\toadlings\toadlings_hugetoadogre.cfg:48
+msgid "bard song"
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingcastle, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_flyingcastle.cfg:5
+msgid "Flying castle"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\toadlings\toadlings_flyingcastle.cfg:39
+#: castle_of_madness\units\toadlings\toadlings_flyingstump.cfg:45
+#: castle_of_madness\units\toadlings\toadlings_magicalstump.cfg:45
+#: castle_of_madness\units\toadlings\toadlings_magnificientstump.cfg:47
+msgid "sharp sticks"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_flyingcastle.cfg:47
+msgid "stone bombard"
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingstump, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_flyingstump.cfg:5
+msgid "Flying stump"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_flyingstump.cfg:37
+#: castle_of_madness\units\toadlings\toadlings_magicalstump.cfg:37
+#: castle_of_madness\units\toadlings\toadlings_magnificientstump.cfg:39
+msgid "stump ram"
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingtoadocata, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadocata.cfg:5
+msgid "Flying toadocata"
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingtoadocata, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadocata.cfg:18
+msgid "When toadlings finally got tired of flying over the swamp, they've upgraded their catapult even more and, following their logic, named it cata. They made the cata so strong they could fling themself so far they could see even the surrounding forests. Extremely astounding."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadocata.cfg:38
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadopult.cfg:37
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadosling.cfg:37
+msgid "crew_fists"
+msgstr ""
+
+#. [attack]: type=pierce
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadocata.cfg:46
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadopult.cfg:45
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadosling.cfg:45
+msgid "big sharp sticks"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadocata.cfg:54
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadopult.cfg:53
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadosling.cfg:53
+msgid "big stone"
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingtoadopult, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadopult.cfg:5
+msgid "Flying toadopult"
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingtoadopult, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadopult.cfg:17
+msgid "Toadlings enjoyed flinging sharp stuff, big stuff and themself with a sling so much they've actually invented a catapult to improve it. Even more astounding."
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingtoadosling, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadosling.cfg:5
+msgid "Flying toadosling"
+msgstr ""
+
+#. [unit_type]: id=toadlings_flyingtoadosling, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_flyingtoadosling.cfg:17
+msgid "Toadlings love big, oversized and useless things. Putting a big, oversized and not useless thing on a flying stump revolutionized their warfare methods, though. Astounding."
+msgstr ""
+
+#. [unit_type]: id=toadlings_greatertoadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_greatertoadotoad.cfg:5
+msgid "Greater Toadotoad"
+msgstr ""
+
+#. [unit_type]: id=toadlings_greatertoadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_greatertoadotoad.cfg:20
+msgid "More often then not, toadotoads decide to swap their weapons - the smaller toad decides to hurt stones to hit like a big strong toad paw and the bigger toad takes up on some weirdly-coloured sticks and smashes stuff with them as if the toad was throwing sticks. Truly amazing."
+msgstr ""
+
+#. [unit_type]: id=toadlings_hugetoadogre, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_hugetoadogre.cfg:5
+msgid "Huge Toadogre"
+msgstr ""
+
+#. [unit_type]: id=toadlings_hugetoadogre, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_hugetoadogre.cfg:17
+msgid "Some ogres grow tremendously huge. Their bard mounts learn to play so well they can inspire a small toadling hit so hard he'd break a stump in a single hit. Speaking of stumps, bards would love to switch out their toadogre mounts for stumps, but sadly, any attempts to do so have failed - the toagogres just take the stumps for thsemself to use instead of clubs. Truly, truly a marvel of nature."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_hugetoadogre.cfg:40
+msgid "stump"
+msgstr ""
+
+#. [unit_type]: id=toadlings_hypnotoadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_hypnotoadotoad.cfg:5
+msgid "Hypnotoadotoad"
+msgstr ""
+
+#. [unit_type]: id=toadlings_hypnotoadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_hypnotoadotoad.cfg:18
+msgid "All hail. Truly amazing."
+msgstr ""
+
+#. [attack]: type=arcane
+#: castle_of_madness\units\toadlings\toadlings_hypnotoadotoad.cfg:54
+msgid "mind overload"
+msgstr ""
+
+#. [leadership]: id=hypnosis
+#: castle_of_madness\units\toadlings\toadlings_hypnotoadotoad.cfg:68
+msgid "hypnosis"
+msgstr ""
+
+#. [leadership]: id=hypnosis
+#: castle_of_madness\units\toadlings\toadlings_hypnotoadotoad.cfg:69
+msgid "All hail. Weakens enemy attacks by 25%"
+msgstr ""
+
+#. [unit_type]: id=toadlings_lanterntoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_lanterntoad.cfg:5
+msgid "Lantern toad"
+msgstr ""
+
+#. [unit_type]: id=toadlings_lanterntoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_lanterntoad.cfg:18
+msgid "Magnificient toad with a lantern on it's head. Astounding."
+msgstr ""
+
+#. [unit_type]: id=toadlings_magicalstump, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_magicalstump.cfg:5
+msgid "Magical stump"
+msgstr ""
+
+#. [unit_type]: id=toadlings_magnificientstump, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_magnificientstump.cfg:5
+msgid "Magnificient stump"
+msgstr ""
+
+#. [unit_type]: id=toadlings_majormudomancer, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_majormudomancer.cfg:5
+msgid "Major Mudomancer"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_majormudomancer.cfg:47
+#: castle_of_madness\units\toadlings\toadlings_minormudomancer.cfg:45
+#: castle_of_madness\units\toadlings\toadlings_mudomancer.cfg:45
+msgid "mudoball"
+msgstr ""
+
+#. [unit_type]: id=toadlings_minormudomancer, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_minormudomancer.cfg:5
+msgid "Minor Mudomancer"
+msgstr ""
+
+#. [unit_type]: id=toadlings_mudomancer, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_mudomancer.cfg:5
+msgid "Mudomancer"
+msgstr ""
+
+#. [unit_type]: id=toadlings_smalltoadling, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_smalltoadling.cfg:4
+msgid "Small toadling"
+msgstr ""
+
+#. [unit_type]: id=toadlings_swampdefender, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_swampdefender.cfg:5
+msgid "Swamp Defender"
+msgstr ""
+
+#. [unit_type]: id=toadlings_swamphero, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_swamphero.cfg:5
+msgid "Swamp Hero"
+msgstr ""
+
+#. [unit_type]: id=toadlings_swampprotector, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_swampprotector.cfg:5
+msgid "Swamp Protector"
+msgstr ""
+
+#. [unit_type]: id=toadlings_swampprotector, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_swampprotector.cfg:16
+msgid "The most brave toadlings equip themself in rotten wooden planks left from various ruins, which protects then well against piercing damage and fire but does poor job stopping any heavy strikes."
+msgstr ""
+
+#. [attack]: type=blade
+#: castle_of_madness\units\toadlings\toadlings_swampprotector.cfg:36
+msgid "wooden sword"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadlinggang, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_toadlinggang.cfg:4
+msgid "Gang of toadlings"
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_toadlinggang.cfg:36
+#: castle_of_madness\units\toadlings\toadlings_toadlinghorde.cfg:37
+#: castle_of_madness\units\toadlings\toadlings_toadlingswarm.cfg:37
+msgid "fists"
+msgstr ""
+
+#. [attack]: type=cold
+#: castle_of_madness\units\toadlings\toadlings_toadlinggang.cfg:52
+#: castle_of_madness\units\toadlings\toadlings_toadlinghorde.cfg:53
+#: castle_of_madness\units\toadlings\toadlings_toadlings.cfg:58
+#: castle_of_madness\units\toadlings\toadlings_toadlingswarm.cfg:53
+msgid "water splashes"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadlinghorde, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_toadlinghorde.cfg:4
+msgid "Horde of toadlings"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadlingscolumn, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_toadlingscolumn.cfg:4
+msgid "Toadlings column"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadlingspillar, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_toadlingspillar.cfg:4
+msgid "Toadlings pillar"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadlingstower, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_toadlingstower.cfg:4
+msgid "Toadlings tower"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadlingswarm, race=toadlings, description=_
+#: castle_of_madness\units\toadlings\toadlings_toadlingswarm.cfg:4
+msgid "Swarm of toadlings"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadogre, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_toadogre.cfg:5
+msgid "Toadogre"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadogre, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_toadogre.cfg:17
+msgid "Some toadotoads evolve in truly strange pairs - the bigger toad learns, how to walk and smash stuff with clubs. It starts to call itself an ogre, which cleverly marks how much their brain evolved. The smaller one constantly produces a variety of weird sounds to inspire their allies. At least, they hope it's inspiring. They really do hope. They also wear hats, because hats are cool. Just like their songs, they think."
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_toadotoad.cfg:5
+msgid "Toadotoad"
+msgstr ""
+
+#. [unit_type]: id=toadlings_toadotoad, race=toadlings
+#: castle_of_madness\units\toadlings\toadlings_toadotoad.cfg:20
+msgid "Sometimes, toads decide to build ladders out of themself. Sometimes they forget smaller toads on their back and do all the usual things in pair. Such couples are called toadotoads. Their bond is so strong they even ride into the battle together."
+msgstr ""
+
+#. [attack]: type=impact
+#: castle_of_madness\units\toadlings\toadlings_toadotoad.cfg:40
+msgid "paws"
+msgstr ""
+
+#. [unit_type]: id=main_whoareyou, race=human, description=_
+#: castle_of_madness\units\undead\whoareyou.cfg:5
+msgid "Who are you"
+msgstr ""
+
+#. [advancement]: id=amla_default
+#: castle_of_madness\utils\AMLA.cfg:10
+msgid "Max HP bonus +3, Max XP +20%"
+msgstr ""
+
+#: castle_of_madness\utils\traits.cfg:4
+msgid " The presence of this unit inspires own units next to it to deal more damage in combat, though this only applies to units of lower or equal level."
+msgstr ""
+
+#. [leadership]: id=inspire
+#: castle_of_madness\utils\traits.cfg:13
+msgid "inspire"
+msgstr ""
+
+#. [leadership]: id=inspire
+#: castle_of_madness\utils\traits.cfg:14
+msgid "female^inspire"
+msgstr ""
+
+#. [leadership]: id=inspire
+#: castle_of_madness\utils\traits.cfg:15
+msgid "This unit can inspire own units that are next to it, making them fight better. Adjacent own units of lower or equal level will deal 25% more damage plus 25% for each level they are below the inspiring unit."
+msgstr ""
+
+#. [trait]: id=shadowcrystal
+#: castle_of_madness\utils\traits.cfg:28
+msgid "shadowcrystal"
+msgstr ""
+
+#. [trait]: id=shadowcrystal
+#: castle_of_madness\utils\traits.cfg:29
+msgid "female^shadowcrystal"
+msgstr ""
+
+#. [trait]: id=shadowcrystal
+#: castle_of_madness\utils\traits.cfg:30
+msgid "This weird crystal lets the carrier hide in plain sight by empowering any darkness surrounding him, although slowly sapping out the owner's will to life over time as result."
+msgstr ""
+
+#. [trait]: id=bluecrystal
+#: castle_of_madness\utils\traits.cfg:75
+msgid "bluecrystal"
+msgstr ""
+
+#. [trait]: id=bluecrystal
+#: castle_of_madness\utils\traits.cfg:76
+msgid "female^bluecrystal"
+msgstr ""
+
+#. [trait]: id=bluecrystal
+#: castle_of_madness\utils\traits.cfg:77
+msgid "This unusual crystal lets the owner concentrate the power of his body and release it in form of magic-like energy bursts, which consist of pure, concentrated magic energy.."
+msgstr ""
+
+#. [effect]: type=arcane
+#: castle_of_madness\utils\traits.cfg:84
+#: castle_of_madness\utils\traits.cfg:99
+#: castle_of_madness\utils\traits.cfg:114
+#: castle_of_madness\utils\traits.cfg:129
+msgid "energy burst"
+msgstr ""
+
+#. [trait]: id=greencrystal
+#: castle_of_madness\utils\traits.cfg:204
+msgid "greencrystal"
+msgstr ""
+
+#. [trait]: id=greencrystal
+#: castle_of_madness\utils\traits.cfg:205
+msgid "female^greencrystal"
+msgstr ""
+
+#. [trait]: id=greencrystal
+#: castle_of_madness\utils\traits.cfg:206
+msgid "This gem makes the wearer swift, fragile and deft, but stops working if the wearer decides to don on any armor."
+msgstr ""
+
+#. [trait]: id=dullcrystal
+#: castle_of_madness\utils\traits.cfg:252
+msgid "dullcrystal"
+msgstr ""
+
+#. [trait]: id=dullcrystal
+#: castle_of_madness\utils\traits.cfg:253
+msgid "female^dullcrystal"
+msgstr ""
+
+#. [trait]: id=dullcrystal
+#: castle_of_madness\utils\traits.cfg:254
+msgid "This weird crystal makes owner reluctant to make decisions, such as movement or attacking, but greatly increases protection and vitality in return."
+msgstr ""
+
+#. [trait]: id=flightcrystal
+#: castle_of_madness\utils\traits.cfg:337
+msgid "flightcrystal"
+msgstr ""
+
+#. [trait]: id=flightcrystal
+#: castle_of_madness\utils\traits.cfg:338
+msgid "female^flightcrystal"
+msgstr ""
+
+#. [trait]: id=flightcrystal
+#: castle_of_madness\utils\traits.cfg:339
+msgid "This glass-like, very lightweight crystal grants the wearer unexplainable ability to hover over almost any terrain, helping greatly to cross rivers and lakes but being useless for crossing mountains."
+msgstr ""
+
+#. [trait]: id=swamp_loyal
+#: castle_of_madness\utils\traits.cfg:364
+msgid "Zero upkeep"
+msgstr ""
+
+#. [era]: id=castle_of_madness_expanded
+#: castle_of_madness\come_era.cfg:5
+msgid "Castle of Madness Expanded"
+msgstr ""
+
+#. [multiplayer_side]: id=Random
+#: castle_of_madness\come_era.cfg:9
+msgid "Random"
+msgstr ""
+
+#. [multiplayer_side]: id=badgerpartypus_clan, type=
+#: castle_of_madness\come_era.cfg:14
+msgid "Badgerpartypus Clan"
+msgstr ""
+
+#. [era]: id=castle_of_madness
+#: castle_of_madness\com_era.cfg:5
+msgid "Castle of Madness"
+msgstr ""
+
+#. [race]: id=badgers, description=_  _
+#: castle_of_madness\races.cfg:5
+msgid "race^Badger"
+msgstr ""
+
+#. [race]: id=badgers, description=_  _
+#: castle_of_madness\races.cfg:6
+msgid "race+female^Badger"
+msgstr ""
+
+#. [race]: id=badgers, description=_  _
+#: castle_of_madness\races.cfg:7
+msgid "race^Badgers"
+msgstr ""
+
+#. [race]: id=badgers, description=_  _
+#: castle_of_madness\races.cfg:18
+msgid "Arsuk,Badgar,Gerbench,Ughen,Evgen,Bars,Meles,Evtten,Jozen,Dachs,Jedhen,Brughen,Brasken,Badgmin,Barzef,Gnir,Grinnius,Bruh,Bans,Barsen,Brusk,Jovi,Valen,Kigh,Ugin,Bartvik,Eughen"
+msgstr ""
+
+#. [race]: id=merdahs, description=_  _
+#: castle_of_madness\races.cfg:73
+#: castle_of_madness\races.cfg:75
+msgid "race^Merdahs"
+msgstr ""
+
+#. [race]: id=merdahs, description=_  _
+#: castle_of_madness\races.cfg:74
+msgid "race+female^Merdahs"
+msgstr ""
+
+#. [race]: id=merdahs, description=_  _
+#: castle_of_madness\races.cfg:86
+msgid "kiwi, keevee"
+msgstr ""
+
+#. [race]: id=platypuses, description=_  _
+#: castle_of_madness\races.cfg:124
+msgid "race^Platypus"
+msgstr ""
+
+#. [race]: id=platypuses, description=_  _
+#: castle_of_madness\races.cfg:125
+msgid "race+female^Platypus"
+msgstr ""
+
+#. [race]: id=platypuses, description=_  _
+#: castle_of_madness\races.cfg:126
+msgid "race^Platypuses"
+msgstr ""
+
+#. [race]: id=platypuses, description=_  _
+#: castle_of_madness\races.cfg:137
+msgid "Ohtec,Pus,Utko,Poty,Ohtto,Potypok,Plot,Oti,Potio,Otioti,Utken,Duckbill,Noss,Plattin,Last,Fliotto,Johto,Vechoot,Ornim,Duckec,Honn,Uc,Ucten,Ohoh,Partibell,Tiorm,Bobrec,Utya,Bobre"
+msgstr ""
+
+#. [race]: id=toadlings, description=_  _
+#: castle_of_madness\races.cfg:176
+msgid "race^Toadling"
+msgstr ""
+
+#. [race]: id=toadlings, description=_  _
+#: castle_of_madness\races.cfg:177
+msgid "race+female^Toadling"
+msgstr ""
+
+#. [race]: id=toadlings, description=_  _
+#: castle_of_madness\races.cfg:178
+msgid "race^Toadlings"
+msgstr ""
+
+#. [race]: id=toadlings, description=_  _
+#: castle_of_madness\races.cfg:189
+msgid "Toad,Toady,Toadliny,Oad,Oadling,Vla,Kva,Kvakva,Kvakv,Kvak,Vladi,Toakva,Kvadling,Kvaaa,Kvako,Kvaki,Toadi,Lupa,Pupa,Toadupa,Pupling,Abiba"
+msgstr ""
+
+#. [race]: id=stones, description=_  _
+#: castle_of_madness\races.cfg:262
+msgid "race^Stone"
+msgstr ""
+
+#. [race]: id=stones, description=_  _
+#: castle_of_madness\races.cfg:263
+msgid "race+female^Stone"
+msgstr ""
+
+#. [race]: id=stones, description=_  _
+#: castle_of_madness\races.cfg:264
+msgid "race^Stones"
+msgstr ""
+
+#. [race]: id=stones, description=_  _
+#: castle_of_madness\races.cfg:274
+msgid "Ston,Stone,Sto,Ton,One,Kam,Kamen,Kameshek,Kamenuka,Kamenuk,Rocky,Rock,Rokk,Rok,Rockie,Roki,Rocki,Rokie,Rostone,Stock"
+msgstr ""
+
+#. [race]: id=mechanisms
+#: castle_of_madness\races.cfg:311
+msgid "race^Mechanism"
+msgstr ""
+
+#. [race]: id=mechanisms
+#: castle_of_madness\races.cfg:312
+msgid "race+female^Mechanism"
+msgstr ""
+
+#. [race]: id=mechanisms
+#: castle_of_madness\races.cfg:313
+msgid "race^Mechanisms"
+msgstr ""
+
+#. [race]: id=mechanisms
+#: castle_of_madness\races.cfg:314
+msgid "Vroom-vroom"
+msgstr ""
+
+#. [race]: id=mechanisms
+#: castle_of_madness\races.cfg:319
+msgid "«Agile»,«Honour»,«Destroyeer»,«Swift»,«Lenin»,«Turret»,«Tachanka»,«Death»,«Argo»,«Varyag»,«Victory»,«Eagle»,«Lion»,«Unicorn»,«Beda»,«Fortess»,«Keep»,«Thunder»,«Peacekeeper»,«Flag»,«Bomb»,«Lightning»,«Phoenix»,«Vulcanus»,«His Royalty»,«Riga»,«Poltava»,«Shtandart»,«Princess Anna»,«Munker»,«Moskva»,«Moscow»,«Hope»,«Kruzenstern»,«Arrow»,«Shield»,«Armor»,«Explosion»,«Thunderous»,«Shining»,«Fearless»,«Sevastopol»,«Trotskiy»,«Avrora»,«Kirov»,«Kirovets»,«Molotov»,«Soviet»,«Stalin»,«Agent Hightower»"
+msgstr ""
+
+#. [race]: id=stumps, description=_  _
+#: castle_of_madness\races.cfg:340
+msgid "race^Stump"
+msgstr ""
+
+#. [race]: id=stumps, description=_  _
+#: castle_of_madness\races.cfg:341
+msgid "race+female^Stump"
+msgstr ""
+
+#. [race]: id=stumps, description=_  _
+#: castle_of_madness\races.cfg:342
+msgid "race^Stumps"
+msgstr ""
+
+#. [race]: id=stumps, description=_  _
+#: castle_of_madness\races.cfg:352
+msgid "Stump, Pen, Penek, Penechillo"
+msgstr ""
+
+#. [race]: id=barbarians, description=_  _
+#: castle_of_madness\races.cfg:391
+msgid "race^Barbarian"
+msgstr ""
+
+#. [race]: id=barbarians, description=_  _
+#: castle_of_madness\races.cfg:392
+msgid "race+female^Barbarian"
+msgstr ""
+
+#. [race]: id=barbarians, description=_  _
+#: castle_of_madness\races.cfg:393
+msgid "race^Barbarians"
+msgstr ""
+
+#. [race]: id=barbarians, description=_  _
+#: castle_of_madness\races.cfg:403
+msgid "Barber, Skullkrak, 'Eadcrumpa, Big Boss, Bonesmasha, Da Fist, Klawjaw, Gork, Mork, Barraroller, Bucketay, Spikebuck"
+msgstr ""
+
+#. [race]: id=barrtules, description=_  _
+#: castle_of_madness\races.cfg:440
+msgid "race^Barrtule"
+msgstr ""
+
+#. [race]: id=barrtules, description=_  _
+#: castle_of_madness\races.cfg:441
+msgid "race+female^Barrtule"
+msgstr ""
+
+#. [race]: id=barrtules, description=_  _
+#: castle_of_madness\races.cfg:442
+msgid "race^Barrtules"
+msgstr ""
+
+#. [race]: id=barrtules, description=_  _
+#: castle_of_madness\races.cfg:451
+msgid "Klawjaw, Rodarolla, Bucketrolla, Bartoise, Barrarolla, Bucket'o'Turtles"
+msgstr ""
+
+#. [race]: id=fire_elementals
+#: castle_of_madness\races.cfg:489
+msgid "race^Fire elemental"
+msgstr ""
+
+#. [race]: id=fire_elementals
+#: castle_of_madness\races.cfg:490
+msgid "race+female^Fire elemental"
+msgstr ""
+
+#. [race]: id=fire_elementals
+#: castle_of_madness\races.cfg:491
+msgid "race^Fire elementals"
+msgstr ""
+
+#. [race]: id=fire_elementals
+#: castle_of_madness\races.cfg:492
+msgid "Hot stuff"
+msgstr ""
+
+#. [race]: id=fire_elementals
+#: castle_of_madness\races.cfg:501
+msgid "Flamy, Infernar, Blazt, Magmis, Volkan, Flar, Scorcher, Hot rock"
+msgstr ""
+
+#. [campaign]: id=castle_of_madness
+#: castle_of_madness\_main.cfg:33
+msgid "The story of Han."
+msgstr ""
+
+#. [campaign]: id=castle_of_madness
+#: castle_of_madness\_main.cfg:39
+msgid "Unravel the mystery beyond the adventures of well-known trader Han."
+msgstr ""
+
+#. [campaign]: id=the_main_story
+#: castle_of_madness\_main.cfg:46
+msgid "The Main story."
+msgstr ""
+
+#. [campaign]: id=the_main_story
+#: castle_of_madness\_main.cfg:52
+msgid "Endure the harshness of the Madness world in this campaign, devoted to history of this realm and it's capital, the Main city."
+msgstr ""
+
+#. [campaign]: id=spring_feast
+#: castle_of_madness\_main.cfg:59
+msgid "Spring feast"
+msgstr ""
+
+#. [campaign]: id=spring_feast
+#: castle_of_madness\_main.cfg:65
+msgid "A wild party for badgers and platypuses! Humans are not very likely to be invited."
+msgstr ""
+
+#. [campaign]: id=spring_feast
+#: castle_of_madness\_main.cfg:67
+msgid "Newb"
+msgstr ""
+
+#. [campaign]: id=Cult_Dungeon_master_slaves
+#: castle_of_madness\_main.cfg:72
+msgid "Rekindling a flame"
+msgstr ""
+
+#. [campaign]: id=Cult_Dungeon_master_slaves
+#: castle_of_madness\_main.cfg:78
+msgid "A long story about growing of Fire Cult."
+msgstr ""
+
+#. [campaign]: id=Cult_Dungeon_master_slaves
+#: castle_of_madness\_main.cfg:80
+msgid "Burnt"
+msgstr ""
+

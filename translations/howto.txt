@@ -1,0 +1,4 @@
+качаем poedit https://poedit.net/download
+открываем translation.po 
+Переводим все что переводится
+сохраняем в ru/LC_MESSAGES с именем wesnoth-castle_of_madness.mo
