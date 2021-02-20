@@ -1302,7 +1302,7 @@ msgstr ""
 #: castle_of_madness\units\platypuses\platypus_battlemage.cfg:36
 #: castle_of_madness\units\platypuses\platypus_beermage.cfg:38
 #: castle_of_madness\units\platypuses\platypus_firemage.cfg:36
-#: castle_of_madness\units\platypuses\platypus_kiselmage.cfg:39
+#: castle_of_madness\units\platypuses\platypus_kisselmage.cfg:39
 #: castle_of_madness\units\toadlings\toadlings_majormudomancer.cfg:39
 #: castle_of_madness\units\toadlings\toadlings_minormudomancer.cfg:37
 #: castle_of_madness\units\toadlings\toadlings_mudomancer.cfg:37
@@ -1848,14 +1848,14 @@ msgstr ""
 msgid "Experts with javelines, platypuses often are trained well enough to be able to compete with begginer bowmen, while still being able to perform well in melee."
 msgstr ""
 
-#. [unit_type]: id=platypus_kiselmage, race=platypuses
-#: castle_of_madness\units\platypuses\platypus_kiselmage.cfg:16
-msgid "Proud of their work, those warriors of kisel support their attacking forces by feeding the wounded life-saving substance named kisel."
+#. [unit_type]: id=platypus_kisselmage, race=platypuses
+#: castle_of_madness\units\platypuses\platypus_kisselmage.cfg:16
+msgid "Proud of their work, those warriors of kissel support their attacking forces by feeding the wounded life-saving substance named kissel."
 msgstr ""
 
 #. [attack]: type=arcane      ##arcane - мистический blade - рубящий cold - холод  fire - огонь impact - крушащий [дробящий] pierce - колющий
-#: castle_of_madness\units\platypuses\platypus_kiselmage.cfg:47
-msgid "kiselbeam"
+#: castle_of_madness\units\platypuses\platypus_kisselmage.cfg:47
+msgid "kisselbeam"
 msgstr ""
 
 #. [unit_type]: id=platypus_kiwilord, race=platypuses, description=_
