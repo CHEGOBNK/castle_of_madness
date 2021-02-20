@@ -1823,7 +1823,7 @@ msgstr ""
 #: castle_of_madness\units\platypuses\platypus_javeliner.cfg:50
 #: castle_of_madness\units\platypuses\platypus_spearplatypus.cfg:50
 #: castle_of_madness\units\platypuses\platypus_veteranspearplatypus.cfg:50
-msgid "javeline"
+msgid "javelin"
 msgstr ""
 
 #. [unit_type]: id=platypus_expertjaveliner, race=platypuses
