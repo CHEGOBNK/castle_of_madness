@@ -12,7 +12,6 @@
     experience=150          ##количество опыта, нужного для повышения уровня
     level=4                ##уровень
     advances_to=null           ##в кого превращается на след ур Писать имя через запятую без пробела
-    {AMLA_DEFAULT}
     alignment=neutral      ##мировозрение
     cost=92                ##цена
     usage=mixed fighter          ##вид лучник боец тд
